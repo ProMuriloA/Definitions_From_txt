@@ -2,6 +2,8 @@
 
 ### All software inside this repository is under the GNU GPL V.3 License.
 
+### This is a software for finding a lot of word definitions all at once
+
 This Software works this way:
 
 1. Copy and paste your text inside the enter_your_text_here.txt and save the file. Then you can close it.
