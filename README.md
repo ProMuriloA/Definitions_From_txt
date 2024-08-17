@@ -1,4 +1,4 @@
-# Definitions_From_txt_Private
+# Definitions_From_txt
 
 ### All software inside this repository is under the GNU GPL V.3 License.
 
