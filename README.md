@@ -1,9 +1,16 @@
+<<<<<<< HEAD
 # Definitions_From_txt
+=======
+# Definitions_From_txt_Private
+>>>>>>> 361c471 (sorting unique words)
 
 ### All software inside this repository is under the GNU GPL V.3 License.
 
 ### This is a software for finding a lot of word definitions all at once
+<<<<<<< HEAD
 This is a linux terminal tool for automating word definition searchs. It uses gcide and it is adapted to search between many languages. In order to use it you must enter the text inside the enter_your_text_here.txt and run the ./dict_translator.sh. The whole process is shown below:
+=======
+>>>>>>> 361c471 (sorting unique words)
 
 This Software works this way:
 
