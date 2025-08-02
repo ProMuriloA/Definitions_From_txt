@@ -1,1 +1,1725 @@
-Errors output
+No definitions found for "d't'façon,"
+No definitions found for "quelques", perhaps you mean:
+fd-fra-eng:  quelque
+No definitions found for "certaine", perhaps you mean:
+fd-fra-eng:  certain
+No definitions found for "oups,", perhaps you mean:
+fd-fra-eng:  ours
+No definitions found for "notre", perhaps you mean:
+fd-fra-eng:  noter  votre  note
+No definitions found for "comédie"
+No definitions found for "arrange", perhaps you mean:
+fd-fra-eng:  arranger
+No definitions found for "célébrons"
+No definitions found for "dit,", perhaps you mean:
+fd-fra-eng:  lit  dix
+No definitions found for "découvriras"
+No definitions found for "servait"
+No definitions found for "enfuie", perhaps you mean:
+fd-fra-eng:  enfuir
+No definitions found for "d'être", perhaps you mean:
+fd-fra-eng:  être  hêtre
+No definitions found for "m'accuse"
+No definitions found for "traîné"
+No definitions found for "coup-ci"
+No definitions found for "caché,"
+No definitions found for "impôts", perhaps you mean:
+fd-fra-eng:  impôt
+No definitions found for "potes"
+No definitions found for "j'suis"
+No definitions found for "féministe"
+No definitions found for "quant", perhaps you mean:
+fd-fra-eng:  quart  quand
+No definitions found for "veux,", perhaps you mean:
+fd-fra-eng:  deux  vieux  veuf
+No definitions found for "idées", perhaps you mean:
+fd-fra-eng:  idée
+No definitions found for "sont", perhaps you mean:
+fd-fra-eng:  dont  mont  pont  sot  soit  sort  son
+No definitions found for "éclaboussée"
+No definitions found for "retouche"
+No definitions found for "saint-louis"
+No definitions found for "qu'ils", perhaps you mean:
+fd-fra-eng:  quels
+No definitions found for "devine", perhaps you mean:
+fd-fra-eng:  deviner  devise
+No definitions found for "pff,"
+No definitions found for "arrivéе", perhaps you mean:
+fd-fra-eng:  arrivée
+No definitions found for "qu'j'aimerais"
+No definitions found for "n'arrange"
+No definitions found for "posais"
+No definitions found for "pousse,", perhaps you mean:
+fd-fra-eng:  pousser  mousse  prusse
+No definitions found for "emportée"
+No definitions found for "m'déprime"
+No definitions found for "pieds"
+No definitions found for "vont", perhaps you mean:
+fd-fra-eng:  dont  mont  pont  vent  volt
+No definitions found for "milords"
+No definitions found for "vendu?"
+No definitions found for "d'parent", perhaps you mean:
+fd-fra-eng:  parent
+No definitions found for "emmanuelle"
+No definitions found for "parlent", perhaps you mean:
+fd-fra-eng:  parent
+No definitions found for "deuils", perhaps you mean:
+fd-fra-eng:  deuil
+No definitions found for "j'aurais"
+No definitions found for "qu'je", perhaps you mean:
+fd-fra-eng:  que
+No definitions found for "peut", perhaps you mean:
+fd-fra-eng:  pet  peur
+No definitions found for "aises"
+No definitions found for "plaisirs", perhaps you mean:
+fd-fra-eng:  plaisir
+No definitions found for "recule", perhaps you mean:
+fd-fra-eng:  reculer
+No definitions found for "d'tes", perhaps you mean:
+fd-fra-eng:  des
+No definitions found for "putains", perhaps you mean:
+fd-fra-eng:  putain
+No definitions found for "épris", perhaps you mean:
+fd-fra-eng:  épais
+No definitions found for "sois", perhaps you mean:
+fd-fra-eng:  bois  fois  mois  pois  sous  soie  soif  soin
+  soir  soit
+No definitions found for "d'autres"
+No definitions found for "rats", perhaps you mean:
+fd-fra-eng:  rat
+No definitions found for "vas?", perhaps you mean:
+fd-fra-eng:  vase  as  bas  cas  las  pas  tas  vis
+No definitions found for "eux", perhaps you mean:
+fd-fra-eng:  aux  deux
+No definitions found for "conspirationniste,"
+No definitions found for "journéе", perhaps you mean:
+fd-fra-eng:  journée
+No definitions found for "trente-cinq"
+No definitions found for "consomme,", perhaps you mean:
+fd-fra-eng:  consommer
+No definitions found for "douceur", perhaps you mean:
+fd-fra-eng:  douleur
+No definitions found for "c'qui", perhaps you mean:
+fd-fra-eng:  qui
+No definitions found for "tete", perhaps you mean:
+fd-fra-eng:  tête  tente  texte
+No definitions found for "l'parie"
+No definitions found for "ous", perhaps you mean:
+fd-fra-eng:  jus  nous  pus  sous  tous  vous  os  ou  oui
+  ours
+No definitions found for "m'est", perhaps you mean:
+fd-fra-eng:  est  lest  mes
+No definitions found for "marre", perhaps you mean:
+fd-fra-eng:  barre  maire  maure  marbre  marge  marie  martre
+  marte  marée
+No definitions found for "jesaistout"
+No definitions found for "n'me", perhaps you mean:
+fd-fra-eng:  me  âme
+No definitions found for "jours", perhaps you mean:
+fd-fra-eng:  ours  cours  jour
+No definitions found for "l'amour", perhaps you mean:
+fd-fra-eng:  amour
+No definitions found for "p't-être", perhaps you mean:
+fd-fra-eng:  prêtre
+No definitions found for "resterai"
+No definitions found for "règles", perhaps you mean:
+fd-fra-eng:  règle
+No definitions found for "donnez-moi"
+No definitions found for "qu'l'amour"
+No definitions found for "l'bonheur"
+No definitions found for "solitude)"
+No definitions found for "célibat"
+No definitions found for "réagir"
+No definitions found for "tue,", perhaps you mean:
+fd-fra-eng:  tuer  que  rue  vue  te  tu  tube
+No definitions found for "dis-moi"
+No definitions found for "s'paye", perhaps you mean:
+fd-fra-eng:  paye
+No definitions found for "pleins", perhaps you mean:
+fd-fra-eng:  plein
+No definitions found for "êtes"
+No definitions found for "n'y", perhaps you mean:
+fd-fra-eng:  nu
+No definitions found for "es", perhaps you mean:
+fd-fra-eng:  est  as  des  les  mes  os  en  er  et
+No definitions found for "s'raient"
+No definitions found for "sinon"
+No definitions found for "subsiste", perhaps you mean:
+fd-fra-eng:  subsister
+No definitions found for "d'suite", perhaps you mean:
+fd-fra-eng:  suite
+No definitions found for "est-c'qu'on"
+No definitions found for "bêtement", perhaps you mean:
+fd-fra-eng:  vêtement
+No definitions found for "mate", perhaps you mean:
+fd-fra-eng:  mater  date  mite  malte  marte
+No definitions found for "s'ra", perhaps you mean:
+fd-fra-eng:  sa
+No definitions found for "veux-tu"
+No definitions found for "reviens"
+No definitions found for "contraception"
+No definitions found for "valises", perhaps you mean:
+fd-fra-eng:  valise
+No definitions found for "dernière", perhaps you mean:
+fd-fra-eng:  derrière
+No definitions found for "quarante-huit"
+No definitions found for "indécent"
+No definitions found for "bercés"
+No definitions found for "connais"
+No definitions found for "chagrins,", perhaps you mean:
+fd-fra-eng:  chagrin
+No definitions found for "mythomaniste"
+No definitions found for "l'problème", perhaps you mean:
+fd-fra-eng:  problème
+No definitions found for "dan-", perhaps you mean:
+fd-fra-eng:  adn  dans  an  pan  don
+No definitions found for "qu'tu"
+No definitions found for "mûrement", perhaps you mean:
+fd-fra-eng:  sûrement
+No definitions found for "s'rait-il"
+No definitions found for "première"
+No definitions found for "déchire", perhaps you mean:
+fd-fra-eng:  déchirer  décrire
+No definitions found for "chère", perhaps you mean:
+fd-fra-eng:  chèvre
+No definitions found for "salope"
+No definitions found for "j'avais", perhaps you mean:
+fd-fra-eng:  jamais
+No definitions found for "connais,"
+No definitions found for "chiante,"
+No definitions found for "blonde", perhaps you mean:
+fd-fra-eng:  blond
+No definitions found for "like", perhaps you mean:
+fd-fra-eng:  lime  lire
+No definitions found for "hommes,", perhaps you mean:
+fd-fra-eng:  homme
+No definitions found for "bercy,", perhaps you mean:
+fd-fra-eng:  berce
+No definitions found for "gnangnan"
+No definitions found for "commence", perhaps you mean:
+fd-fra-eng:  commencer  commerce
+No definitions found for "nait", perhaps you mean:
+fd-fra-eng:  fait  lait  nuit  nain
+No definitions found for "ne", perhaps you mean:
+fd-fra-eng:  en  net  nez  ce  de  je  le  me  te  une  âne
+  nu
+No definitions found for "aurons"
+No definitions found for "arrête", perhaps you mean:
+fd-fra-eng:  arrêter  arête  arrêt
+No definitions found for "prends"
+No definitions found for "kate", perhaps you mean:
+fd-fra-eng:  date
+No definitions found for "bistrot"
+No definitions found for "doit", perhaps you mean:
+fd-fra-eng:  soit  toit  droit  dont  doigt
+No definitions found for "pète", perhaps you mean:
+fd-fra-eng:  poète  pâte  père
+No definitions found for "vient", perhaps you mean:
+fd-fra-eng:  vent
+No definitions found for "c'est?", perhaps you mean:
+fd-fra-eng:  est  lest  cent
+No definitions found for "rencontrée,", perhaps you mean:
+fd-fra-eng:  rencontre
+No definitions found for "prend"
+No definitions found for "l'essuie"
+No definitions found for "vaut", perhaps you mean:
+fd-fra-eng:  haut  saut
+No definitions found for "perds"
+No definitions found for "plans", perhaps you mean:
+fd-fra-eng:  plan
+No definitions found for "sais,", perhaps you mean:
+fd-fra-eng:  mais  sans  sain
+No definitions found for "amis", perhaps you mean:
+fd-fra-eng:  mais  avis  amas  ami  amie
+No definitions found for "twitter"
+No definitions found for "souffrent"
+No definitions found for "choisis", perhaps you mean:
+fd-fra-eng:  choisir
+No definitions found for "d'aimer", perhaps you mean:
+fd-fra-eng:  aimer
+No definitions found for "courtisent"
+No definitions found for "cesses", perhaps you mean:
+fd-fra-eng:  cesser
+No definitions found for "drame", perhaps you mean:
+fd-fra-eng:  rame  dame
+No definitions found for "d'aussi", perhaps you mean:
+fd-fra-eng:  aussi
+No definitions found for "trouve-toi"
+No definitions found for "qu'en", perhaps you mean:
+fd-fra-eng:  que  quel
+No definitions found for "péris", perhaps you mean:
+fd-fra-eng:  paris  pâris  pénis  périr
+No definitions found for "joies", perhaps you mean:
+fd-fra-eng:  joie
+No definitions found for "nos", perhaps you mean:
+fd-fra-eng:  os  dos  nom  non  nous  noé
+No definitions found for "mangions"
+No definitions found for "ok", perhaps you mean:
+fd-fra-eng:  oh  on  or  os  ou  où
+No definitions found for "indécis"
+No definitions found for "p'tit", perhaps you mean:
+fd-fra-eng:  petit
+No definitions found for "oublié", perhaps you mean:
+fd-fra-eng:  oubli
+No definitions found for "l'éternité"
+No definitions found for "payée", perhaps you mean:
+fd-fra-eng:  paye
+No definitions found for "s'aimera"
+No definitions found for "aidez", perhaps you mean:
+fd-fra-eng:  aide  aider
+No definitions found for "draps", perhaps you mean:
+fd-fra-eng:  drap
+No definitions found for "auras", perhaps you mean:
+fd-fra-eng:  arras  aura
+No definitions found for "s'tourne"
+No definitions found for "dev'nu"
+No definitions found for "crises,", perhaps you mean:
+fd-fra-eng:  crise
+No definitions found for "tournerait"
+No definitions found for "pleurez,", perhaps you mean:
+fd-fra-eng:  pleurer
+No definitions found for "passes", perhaps you mean:
+fd-fra-eng:  passer
+No definitions found for "vu", perhaps you mean:
+fd-fra-eng:  vue  au  du  nu  ou  qu  tu  vœu
+No definitions found for "l'envers"
+No definitions found for "l'ai", perhaps you mean:
+fd-fra-eng:  laid  lait  bai  gai  mai  loi  lui  la  lac  las
+No definitions found for "toilettes", perhaps you mean:
+fd-fra-eng:  toilette
+No definitions found for "qu'un"
+No definitions found for "bonheur)"
+No definitions found for "siècles,", perhaps you mean:
+fd-fra-eng:  siècle
+No definitions found for "meurs,"
+No definitions found for "temps-là"
+No definitions found for "enlacés"
+No definitions found for "traite", perhaps you mean:
+fd-fra-eng:  traiter  truite  traire  trait
+No definitions found for "j'vous", perhaps you mean:
+fd-fra-eng:  vous
+No definitions found for "j'peux"
+No definitions found for "enfanter)"
+No definitions found for "t'ai", perhaps you mean:
+fd-fra-eng:  taie  bai  gai  mai  toi  ta  tas  taxi
+No definitions found for "juré", perhaps you mean:
+fd-fra-eng:  curé
+No definitions found for "gueux"
+No definitions found for "l'hiver", perhaps you mean:
+fd-fra-eng:  hiver
+No definitions found for "demande", perhaps you mean:
+fd-fra-eng:  demander
+No definitions found for "qu'ça"
+No definitions found for "crie", perhaps you mean:
+fd-fra-eng:  cire  crier  craie  cri  crime  crise
+No definitions found for "c'que", perhaps you mean:
+fd-fra-eng:  que  coque
+No definitions found for "commencé"
+No definitions found for "voulait"
+No definitions found for "l'accordéon", perhaps you mean:
+fd-fra-eng:  accordéon
+No definitions found for "absents", perhaps you mean:
+fd-fra-eng:  absent
+No definitions found for "pilote", perhaps you mean:
+fd-fra-eng:  piloter
+No definitions found for "lorsqu'on"
+No definitions found for "horaires", perhaps you mean:
+fd-fra-eng:  horaire
+No definitions found for "cries", perhaps you mean:
+fd-fra-eng:  crise  crier
+No definitions found for "t'larguer"
+No definitions found for "jeunes", perhaps you mean:
+fd-fra-eng:  jeune
+No definitions found for "qu'on", perhaps you mean:
+fd-fra-eng:  quoi
+No definitions found for "seule", perhaps you mean:
+fd-fra-eng:  saule  selle  seul
+No definitions found for "préféré"
+No definitions found for "débarrasses,", perhaps you mean:
+fd-fra-eng:  débarrasser
+No definitions found for "mets", perhaps you mean:
+fd-fra-eng:  mes
+No definitions found for "veux", perhaps you mean:
+fd-fra-eng:  deux  vieux  veuf
+No definitions found for "longs?", perhaps you mean:
+fd-fra-eng:  long
+No definitions found for "manege", perhaps you mean:
+fd-fra-eng:  manège
+No definitions found for "l'week-end", perhaps you mean:
+fd-fra-eng:  weekend
+No definitions found for "mourrai"
+No definitions found for "n'ai", perhaps you mean:
+fd-fra-eng:  nain  bai  gai  mai  nag
+No definitions found for "draguer"
+No definitions found for "couve", perhaps you mean:
+fd-fra-eng:  couver  louve  cuve  coude  coupe
+No definitions found for "soulevés,"
+No definitions found for "seins", perhaps you mean:
+fd-fra-eng:  reins  sens  sein  seine
+No definitions found for "(yepa)"
+No definitions found for "champions", perhaps you mean:
+fd-fra-eng:  champion
+No definitions found for "bébés", perhaps you mean:
+fd-fra-eng:  bébé
+No definitions found for "trinque"
+No definitions found for "fautеuil", perhaps you mean:
+fd-fra-eng:  fauteuil
+No definitions found for "venez"
+No definitions found for "paraît"
+No definitions found for "y", perhaps you mean:
+fd-fra-eng:  c  j  l  m  t  à
+No definitions found for "aimé,", perhaps you mean:
+fd-fra-eng:  animé  aisé
+No definitions found for "accrochait"
+No definitions found for "enchantée"
+No definitions found for "inondera", perhaps you mean:
+fd-fra-eng:  inonder
+No definitions found for "iras", perhaps you mean:
+fd-fra-eng:  bras  gras  iris  irak  iran
+No definitions found for "sourit,", perhaps you mean:
+fd-fra-eng:  souris
+No definitions found for "pleurs", perhaps you mean:
+fd-fra-eng:  pleur
+No definitions found for "thunes"
+No definitions found for "y'a", perhaps you mean:
+fd-fra-eng:  la  ma  sa  ta
+No definitions found for "s'aime,"
+No definitions found for "l'espoir", perhaps you mean:
+fd-fra-eng:  espoir
+No definitions found for "dis-moi,"
+No definitions found for "odeurs)", perhaps you mean:
+fd-fra-eng:  odeur
+No definitions found for "insultée"
+No definitions found for "croit", perhaps you mean:
+fd-fra-eng:  droit  croix
+No definitions found for "lutte", perhaps you mean:
+fd-fra-eng:  lutter  hutte
+No definitions found for "d'un", perhaps you mean:
+fd-fra-eng:  dune  un  don  du  dur
+No definitions found for "s'arranger", perhaps you mean:
+fd-fra-eng:  arranger
+No definitions found for "donne", perhaps you mean:
+fd-fra-eng:  donner  tonne
+No definitions found for "fais", perhaps you mean:
+fd-fra-eng:  mais  fois  frais  faim  fait
+No definitions found for "n'entends"
+No definitions found for "faudrait"
+No definitions found for "s'éloigne"
+No definitions found for "connards"
+No definitions found for "fera", perhaps you mean:
+fd-fra-eng:  fer
+No definitions found for "cherchée"
+No definitions found for "ravis,", perhaps you mean:
+fd-fra-eng:  avis  radis  ravin  ravir
+No definitions found for "caca,", perhaps you mean:
+fd-fra-eng:  cacao
+No definitions found for "eh", perhaps you mean:
+fd-fra-eng:  ah  oh  en  er  et
+No definitions found for "diras"
+No definitions found for "t'emballe"
+No definitions found for "aurait"
+No definitions found for "grosse", perhaps you mean:
+fd-fra-eng:  rosse  brosse  gosse
+No definitions found for "marin-pêcheur", perhaps you mean:
+fd-fra-eng:  martinpêcheur
+No definitions found for "tristes?", perhaps you mean:
+fd-fra-eng:  triste
+No definitions found for "vanter)"
+No definitions found for "j'préfère"
+No definitions found for "n'étiez"
+No definitions found for "racines", perhaps you mean:
+fd-fra-eng:  racine
+No definitions found for "sais", perhaps you mean:
+fd-fra-eng:  mais  sans  sain
+No definitions found for "mains", perhaps you mean:
+fd-fra-eng:  moins  mais  main  maint
+No definitions found for "fenêtres", perhaps you mean:
+fd-fra-eng:  fenêtre
+No definitions found for "heures", perhaps you mean:
+fd-fra-eng:  heure
+No definitions found for "qu'ce", perhaps you mean:
+fd-fra-eng:  puce  que
+No definitions found for "emma"
+No definitions found for "l'air", perhaps you mean:
+fd-fra-eng:  air  clair  loir  laid  lait
+No definitions found for "pied", perhaps you mean:
+fd-fra-eng:  pie  pieu
+No definitions found for "circulez,", perhaps you mean:
+fd-fra-eng:  circuler
+No definitions found for "s'effacent"
+No definitions found for "resto,", perhaps you mean:
+fd-fra-eng:  reste
+No definitions found for "j'arrête"
+No definitions found for "lalalalalala,"
+No definitions found for "padam,", perhaps you mean:
+fd-fra-eng:  adam  panam
+No definitions found for "probleme", perhaps you mean:
+fd-fra-eng:  problème
+No definitions found for "qu'est", perhaps you mean:
+fd-fra-eng:  ouest
+No definitions found for "chantez,", perhaps you mean:
+fd-fra-eng:  chanter
+No definitions found for "brisait"
+No definitions found for "dépressif"
+No definitions found for "t'es", perhaps you mean:
+fd-fra-eng:  des  les  mes  tas  te  tel
+No definitions found for "t'arrête"
+No definitions found for "musiciens,", perhaps you mean:
+fd-fra-eng:  musicien
+No definitions found for "blablablas"
+No definitions found for "semble", perhaps you mean:
+fd-fra-eng:  sembler
+No definitions found for "mécréant"
+No definitions found for "droite", perhaps you mean:
+fd-fra-eng:  droit
+No definitions found for "mannequins"
+No definitions found for "(c'est", perhaps you mean:
+fd-fra-eng:  est  lest  cent
+No definitions found for "bat", perhaps you mean:
+fd-fra-eng:  bath  rat  but  bac  bai  bal  bar  bas
+No definitions found for "eu", perhaps you mean:
+fd-fra-eng:  au  du  feu  jeu  nu  ou  qu  tu  eau  en  er  et
+No definitions found for "fete", perhaps you mean:
+fd-fra-eng:  fête
+No definitions found for "douce", perhaps you mean:
+fd-fra-eng:  pouce  doute  douze  douche
+No definitions found for "couches,", perhaps you mean:
+fd-fra-eng:  couche  coucher
+No definitions found for "n'célèbrent"
+No definitions found for "pleure", perhaps you mean:
+fd-fra-eng:  pleurer  pleur
+No definitions found for "étais", perhaps you mean:
+fd-fra-eng:  épais  étain
+No definitions found for "peines", perhaps you mean:
+fd-fra-eng:  peine  peiner
+No definitions found for "miens"
+No definitions found for "moss", perhaps you mean:
+fd-fra-eng:  mois
+No definitions found for "t'reste", perhaps you mean:
+fd-fra-eng:  reste  triste  trente
+No definitions found for "délire", perhaps you mean:
+fd-fra-eng:  délirer  délice
+No definitions found for "criais"
+No definitions found for "romance"
+No definitions found for "parle", perhaps you mean:
+fd-fra-eng:  parler  perle  parole
+No definitions found for "flonflons"
+No definitions found for "mien,", perhaps you mean:
+fd-fra-eng:  mine  bien  lien  rien  tien  miel
+No definitions found for "laisse-toi"
+No definitions found for "écrasés"
+No definitions found for "sert", perhaps you mean:
+fd-fra-eng:  vert  sort  sept
+No definitions found for "fêlé"
+No definitions found for "lеs", perhaps you mean:
+fd-fra-eng:  las  les  lis  lys
+No definitions found for "petite,", perhaps you mean:
+fd-fra-eng:  petit
+No definitions found for "beauf", perhaps you mean:
+fd-fra-eng:  beau
+No definitions found for "f'ras", perhaps you mean:
+fd-fra-eng:  bras  gras  frais
+No definitions found for "née", perhaps you mean:
+fd-fra-eng:  enée  fée
+No definitions found for "devient"
+No definitions found for "l'corps", perhaps you mean:
+fd-fra-eng:  corps
+No definitions found for "c'qu'il"
+No definitions found for "l'ennui", perhaps you mean:
+fd-fra-eng:  ennui
+No definitions found for "laura", perhaps you mean:
+fd-fra-eng:  aura
+No definitions found for "c'est,", perhaps you mean:
+fd-fra-eng:  est  lest  cent
+No definitions found for "l'heure", perhaps you mean:
+fd-fra-eng:  heure
+No definitions found for "j'étais"
+No definitions found for "bouffé"
+No definitions found for "emportés"
+No definitions found for "l'sucer", perhaps you mean:
+fd-fra-eng:  sucer
+No definitions found for "solo", perhaps you mean:
+fd-fra-eng:  sol  sole
+No definitions found for "zik", perhaps you mean:
+fd-fra-eng:  zip
+No definitions found for "garni,", perhaps you mean:
+fd-fra-eng:  garnir
+No definitions found for "n'a", perhaps you mean:
+fd-fra-eng:  an  nag  la  ma  sa  ta  nu
+No definitions found for "sait", perhaps you mean:
+fd-fra-eng:  fait  lait  soit  saut  saint  sain
+No definitions found for "cultrice"
+No definitions found for "m'importent"
+No definitions found for "solfège"
+No definitions found for "insomniaques"
+No definitions found for "j'rigole"
+No definitions found for "j'pourrais"
+No definitions found for "finira", perhaps you mean:
+fd-fra-eng:  finir
+No definitions found for "qu'est-ce"
+No definitions found for "faute", perhaps you mean:
+fd-fra-eng:  faîte
+No definitions found for "réunit", perhaps you mean:
+fd-fra-eng:  réunir
+No definitions found for "est-ce"
+No definitions found for "bonheur"
+No definitions found for "jettes,"
+No definitions found for "j'l'aurais"
+No definitions found for "parlé"
+No definitions found for "vanter,"
+No definitions found for "crois-tu"
+No definitions found for "formons"
+No definitions found for "ouais"
+No definitions found for "qu'y", perhaps you mean:
+fd-fra-eng:  qu  que  qui
+No definitions found for "l'homme", perhaps you mean:
+fd-fra-eng:  homme
+No definitions found for "arrête,", perhaps you mean:
+fd-fra-eng:  arrêter  arête  arrêt
+No definitions found for "aviez"
+No definitions found for "'s", perhaps you mean:
+fd-fra-eng:  sa  si  as  c  j  l  m  os  t  à
+No definitions found for "allez-y,"
+No definitions found for "musiciens", perhaps you mean:
+fd-fra-eng:  musicien
+No definitions found for "papas", perhaps you mean:
+fd-fra-eng:  papa
+No definitions found for "d'humeur"
+No definitions found for "soigne", perhaps you mean:
+fd-fra-eng:  soigner  signe
+No definitions found for "multiplie", perhaps you mean:
+fd-fra-eng:  multiple
+No definitions found for "n'm'avez"
+No definitions found for "enchanté,"
+No definitions found for "bouge", perhaps you mean:
+fd-fra-eng:  bouger  rouge  boue  boule  bougie
+No definitions found for "laisse", perhaps you mean:
+fd-fra-eng:  laisser  caisse  lisse
+No definitions found for "s'aime"
+No definitions found for "manières?", perhaps you mean:
+fd-fra-eng:  manière
+No definitions found for "reviens,"
+No definitions found for "viennent"
+No definitions found for "t'achètes"
+No definitions found for "dit:", perhaps you mean:
+fd-fra-eng:  lit  dix
+No definitions found for "ah-ah-ah-ah)"
+No definitions found for "renierais"
+No definitions found for "restes!", perhaps you mean:
+fd-fra-eng:  reste  rester
+No definitions found for "macaques"
+No definitions found for "d'entre", perhaps you mean:
+fd-fra-eng:  entre  centre  ventre
+No definitions found for "s'aimerait"
+No definitions found for "r'part", perhaps you mean:
+fd-fra-eng:  part
+No definitions found for "m'sens", perhaps you mean:
+fd-fra-eng:  sens
+No definitions found for "gestes", perhaps you mean:
+fd-fra-eng:  geste
+No definitions found for "j'avoue"
+No definitions found for "fleurit", perhaps you mean:
+fd-fra-eng:  fleurir
+No definitions found for "rira", perhaps you mean:
+fd-fra-eng:  rire
+No definitions found for "han,", perhaps you mean:
+fd-fra-eng:  an  pan
+No definitions found for "f'ra"
+No definitions found for "d'anniversaire", perhaps you mean:
+fd-fra-eng:  anniversaire
+No definitions found for "cheap,"
+No definitions found for "souvenirs", perhaps you mean:
+fd-fra-eng:  souvenir
+No definitions found for "pourrais"
+No definitions found for "jours,", perhaps you mean:
+fd-fra-eng:  ours  cours  jour
+No definitions found for "traînée"
+No definitions found for "dis", perhaps you mean:
+fd-fra-eng:  lis  pis  vis  des  dos  dès  dix
+No definitions found for "éloigne"
+No definitions found for "m'avait"
+No definitions found for "revois", perhaps you mean:
+fd-fra-eng:  revoir
+No definitions found for "retouchant"
+No definitions found for "s'écrouler"
+No definitions found for "enivrés"
+No definitions found for "persiste", perhaps you mean:
+fd-fra-eng:  persister
+No definitions found for "ses", perhaps you mean:
+fd-fra-eng:  des  les  mes  sec  sel  sens
+No definitions found for "pute,", perhaps you mean:
+fd-fra-eng:  pâte  puce
+No definitions found for "charge", perhaps you mean:
+fd-fra-eng:  charger  charme
+No definitions found for "l'autre", perhaps you mean:
+fd-fra-eng:  autre
+No definitions found for "meilleure", perhaps you mean:
+fd-fra-eng:  meilleur
+No definitions found for "frôlé"
+No definitions found for "es-tu", perhaps you mean:
+fd-fra-eng:  est
+No definitions found for "prendra", perhaps you mean:
+fd-fra-eng:  prendre
+No definitions found for "rendra", perhaps you mean:
+fd-fra-eng:  rendre
+No definitions found for "rues", perhaps you mean:
+fd-fra-eng:  rue
+No definitions found for "j'entends"
+No definitions found for "rageux"
+No definitions found for "autres", perhaps you mean:
+fd-fra-eng:  autre
+No definitions found for "ici"
+No definitions found for "réveille", perhaps you mean:
+fd-fra-eng:  réveiller
+No definitions found for "d'débats"
+No definitions found for "décidément,"
+No definitions found for "avances?", perhaps you mean:
+fd-fra-eng:  avance  avancer
+No definitions found for "t'y", perhaps you mean:
+fd-fra-eng:  t  ta  te  tu  té
+No definitions found for "s'entrebattre"
+No definitions found for "cris,", perhaps you mean:
+fd-fra-eng:  crise  gris  iris  cri
+No definitions found for "mystere", perhaps you mean:
+fd-fra-eng:  mystère
+No definitions found for "l'un", perhaps you mean:
+fd-fra-eng:  lune  un  alun  lin  lui
+No definitions found for "môme", perhaps you mean:
+fd-fra-eng:  même
+No definitions found for "l'humeur,"
+No definitions found for "l'prendre,", perhaps you mean:
+fd-fra-eng:  prendre
+No definitions found for "savais"
+No definitions found for "nettoies"
+No definitions found for "veuch"
+No definitions found for "hmm,"
+No definitions found for "présents", perhaps you mean:
+fd-fra-eng:  présent
+No definitions found for "vois", perhaps you mean:
+fd-fra-eng:  bois  fois  mois  pois  vis  vous  voie  voir
+  voix
+No definitions found for "levé", perhaps you mean:
+fd-fra-eng:  élevé
+No definitions found for "l'fait", perhaps you mean:
+fd-fra-eng:  fait  lait
+No definitions found for "ait", perhaps you mean:
+fd-fra-eng:  fait  lait  lit  art  ail  air
+No definitions found for "qu'avant"
+No definitions found for "toute", perhaps you mean:
+fd-fra-eng:  toutes  doute  route  tout
+No definitions found for "m'tue,"
+No definitions found for "d'idéaux,"
+No definitions found for "voyons,"
+No definitions found for "avait", perhaps you mean:
+fd-fra-eng:  avant
+No definitions found for "terroriste", perhaps you mean:
+fd-fra-eng:  terrorisme
+No definitions found for "faut,", perhaps you mean:
+fd-fra-eng:  haut  saut  fait  faux
+No definitions found for "planete", perhaps you mean:
+fd-fra-eng:  plante  planète
+No definitions found for "d'accord,", perhaps you mean:
+fd-fra-eng:  accord
+No definitions found for "parfaite", perhaps you mean:
+fd-fra-eng:  parfait
+No definitions found for "égoïstes"
+No definitions found for "caca", perhaps you mean:
+fd-fra-eng:  cacao
+No definitions found for "marinier"
+No definitions found for "boulot"
+No definitions found for "l'ombre", perhaps you mean:
+fd-fra-eng:  ombre  nombre  sombre
+No definitions found for "blesse", perhaps you mean:
+fd-fra-eng:  blesser  blessé
+No definitions found for "l'impression", perhaps you mean:
+fd-fra-eng:  impression
+No definitions found for "enchaînés"
+No definitions found for "matins", perhaps you mean:
+fd-fra-eng:  matin
+No definitions found for "l'humble", perhaps you mean:
+fd-fra-eng:  humble
+No definitions found for "d'avis", perhaps you mean:
+fd-fra-eng:  avis
+No definitions found for "demie", perhaps you mean:
+fd-fra-eng:  demi
+No definitions found for "j'aimerais"
+No definitions found for "m'obsède"
+No definitions found for "s'asseyait"
+No definitions found for "s'effondrer"
+No definitions found for "milliers", perhaps you mean:
+fd-fra-eng:  millier
+No definitions found for "réglé"
+No definitions found for "lèverai"
+No definitions found for "l'restе"
+No definitions found for "bohème", perhaps you mean:
+fd-fra-eng:  bohême
+No definitions found for "verres", perhaps you mean:
+fd-fra-eng:  verre
+No definitions found for "demandais"
+No definitions found for "pres", perhaps you mean:
+fd-fra-eng:  ypres  près
+No definitions found for "trips"
+No definitions found for "l'immensité"
+No definitions found for "folle", perhaps you mean:
+fd-fra-eng:  colle  fille  foule
+No definitions found for "traîne", perhaps you mean:
+fd-fra-eng:  traîner
+No definitions found for "eva"
+No definitions found for "bobo"
+No definitions found for "s'y", perhaps you mean:
+fd-fra-eng:  sa  si
+No definitions found for "réfléchi", perhaps you mean:
+fd-fra-eng:  réfléchir
+No definitions found for "nicolas"
+No definitions found for "construit"
+No definitions found for "pourries"
+No definitions found for "boit", perhaps you mean:
+fd-fra-eng:  soit  toit  bout  bois
+No definitions found for "éternelle"
+No definitions found for "l'malheur", perhaps you mean:
+fd-fra-eng:  malheur
+No definitions found for "ramène", perhaps you mean:
+fd-fra-eng:  amène
+No definitions found for "s'élance", perhaps you mean:
+fd-fra-eng:  sélancer  séance
+No definitions found for "viens,"
+No definitions found for "fini", perhaps you mean:
+fd-fra-eng:  finir  fin
+No definitions found for "qu'j'fais"
+No definitions found for "finit", perhaps you mean:
+fd-fra-eng:  finir
+No definitions found for "retombent,"
+No definitions found for "formidables", perhaps you mean:
+fd-fra-eng:  formidable
+No definitions found for "universel"
+No definitions found for "prenait"
+No definitions found for "pensais"
+No definitions found for "ennuis", perhaps you mean:
+fd-fra-eng:  ennui
+No definitions found for "célébrait"
+No definitions found for "verrez", perhaps you mean:
+fd-fra-eng:  verre
+No definitions found for "ramasses", perhaps you mean:
+fd-fra-eng:  ramasser
+No definitions found for "géniteurs"
+No definitions found for "l'coup,", perhaps you mean:
+fd-fra-eng:  coup  loup
+No definitions found for "slips", perhaps you mean:
+fd-fra-eng:  slip
+No definitions found for "accompagné,"
+No definitions found for "saints,", perhaps you mean:
+fd-fra-eng:  saint
+No definitions found for "cote", perhaps you mean:
+fd-fra-eng:  note  vote  côte  comte  conte
+No definitions found for "vies", perhaps you mean:
+fd-fra-eng:  vis  vie
+No definitions found for "l'courage", perhaps you mean:
+fd-fra-eng:  courage
+No definitions found for "comblait"
+No definitions found for "seraient"
+No definitions found for "coeur", perhaps you mean:
+fd-fra-eng:  cour
+No definitions found for "faites"
+No definitions found for "m'en", perhaps you mean:
+fd-fra-eng:  menu  en  yen  mon  me  mer  mes
+No definitions found for "y'avait"
+No definitions found for "arrivé", perhaps you mean:
+fd-fra-eng:  arrivée
+No definitions found for "aimes", perhaps you mean:
+fd-fra-eng:  aimer
+No definitions found for "peux", perhaps you mean:
+fd-fra-eng:  deux  pieux  peur
+No definitions found for "d'moins", perhaps you mean:
+fd-fra-eng:  moins
+No definitions found for "promets"
+No definitions found for "m'idéalises,"
+No definitions found for "regarde", perhaps you mean:
+fd-fra-eng:  regarder  renarde  regard
+No definitions found for "reconnais"
+No definitions found for "mêmes", perhaps you mean:
+fd-fra-eng:  même
+No definitions found for "laissez-vous"
+No definitions found for "ancienne"
+No definitions found for "voulu"
+No definitions found for "d'raison", perhaps you mean:
+fd-fra-eng:  raison
+No definitions found for "prises", perhaps you mean:
+fd-fra-eng:  prise
+No definitions found for "éclaircies"
+No definitions found for "n'vois"
+No definitions found for "l'temps", perhaps you mean:
+fd-fra-eng:  temps
+No definitions found for "mienne", perhaps you mean:
+fd-fra-eng:  vienne
+No definitions found for "faut", perhaps you mean:
+fd-fra-eng:  haut  saut  fait  faux
+No definitions found for "rebondissent"
+No definitions found for "soi", perhaps you mean:
+fd-fra-eng:  soie  soif  soin  soir  soit  foi  loi  moi  roi
+  toi  si  ski  sol  son  sot
+No definitions found for "reconnue"
+No definitions found for "marchiez"
+No definitions found for "t'es,", perhaps you mean:
+fd-fra-eng:  des  les  mes  tas  te  tel
+No definitions found for "m'trouveras"
+No definitions found for "j'te", perhaps you mean:
+fd-fra-eng:  te  je
+No definitions found for "m'aimes"
+No definitions found for "ans,", perhaps you mean:
+fd-fra-eng:  anse  dans  sans  as  an  anus
+No definitions found for "huissier"
+No definitions found for "farandole,"
+No definitions found for "papiers", perhaps you mean:
+fd-fra-eng:  papier
+No definitions found for "m'étonnes"
+No definitions found for "meillеure"
+No definitions found for "amours", perhaps you mean:
+fd-fra-eng:  amour
+No definitions found for "cite", perhaps you mean:
+fd-fra-eng:  citer  mite  rite  vite  côte  cime  cire  cité
+No definitions found for "partage,", perhaps you mean:
+fd-fra-eng:  partager
+No definitions found for "plu", perhaps you mean:
+fd-fra-eng:  plus  pou  pli
+No definitions found for "bêtises"
+No definitions found for "problèmes", perhaps you mean:
+fd-fra-eng:  problème
+No definitions found for "souviens-toi"
+No definitions found for "écoutez", perhaps you mean:
+fd-fra-eng:  écouter
+No definitions found for "abandonne", perhaps you mean:
+fd-fra-eng:  abandonner  abandonné
+No definitions found for "finit,", perhaps you mean:
+fd-fra-eng:  finir
+No definitions found for "parce", perhaps you mean:
+fd-fra-eng:  parc
+No definitions found for "prennent"
+No definitions found for "ben", perhaps you mean:
+fd-fra-eng:  en  yen  bien  bon  bec
+No definitions found for "n'en", perhaps you mean:
+fd-fra-eng:  en  yen  non  net  nez
+No definitions found for "bah,", perhaps you mean:
+fd-fra-eng:  ah  bac  bai  bal  bar  bas  bath
+No definitions found for "dites-nous"
+No definitions found for "s'arrête", perhaps you mean:
+fd-fra-eng:  sarrêter
+No definitions found for "l'après", perhaps you mean:
+fd-fra-eng:  après  daprès
+No definitions found for "enfer"
+No definitions found for "crasses"
+No definitions found for "dicton"
+No definitions found for "l'arracher", perhaps you mean:
+fd-fra-eng:  arracher
+No definitions found for "marchent"
+No definitions found for "coups", perhaps you mean:
+fd-fra-eng:  corps  cours  coup  coupe
+No definitions found for "cherches", perhaps you mean:
+fd-fra-eng:  chercher
+No definitions found for "éclatant"
+No definitions found for "ces", perhaps you mean:
+fd-fra-eng:  des  les  mes  cas  ce
+No definitions found for "m'emmerde"
+No definitions found for "voisins,", perhaps you mean:
+fd-fra-eng:  voisin
+No definitions found for "revient,"
+No definitions found for "accompagné"
+No definitions found for "milord"
+No definitions found for "valérie,"
+No definitions found for "connait"
+No definitions found for "n'ont", perhaps you mean:
+fd-fra-eng:  dont  mont  pont  non
+No definitions found for "s'en", perhaps you mean:
+fd-fra-eng:  sens  en  yen  son  sec  sein  sel
+No definitions found for "sors", perhaps you mean:
+fd-fra-eng:  hors  lors  sous  sort
+No definitions found for "oubliant"
+No definitions found for "retourne,", perhaps you mean:
+fd-fra-eng:  retourner
+No definitions found for "t'inquiète"
+No definitions found for "comptait"
+No definitions found for "payes", perhaps you mean:
+fd-fra-eng:  pays  paye  payer
+No definitions found for "millions"
+No definitions found for "ballants"
+No definitions found for "clinquant"
+No definitions found for "d'la", perhaps you mean:
+fd-fra-eng:  la
+No definitions found for "devenu", perhaps you mean:
+fd-fra-eng:  revenu
+No definitions found for "l'existence"
+No definitions found for "puisse", perhaps you mean:
+fd-fra-eng:  cuisse  suisse
+No definitions found for "hommes", perhaps you mean:
+fd-fra-eng:  homme
+No definitions found for "verrai", perhaps you mean:
+fd-fra-eng:  verrat
+No definitions found for "éclatent"
+No definitions found for "négociable"
+No definitions found for "mouillé"
+No definitions found for "méprises", perhaps you mean:
+fd-fra-eng:  mépriser
+No definitions found for "l'orage", perhaps you mean:
+fd-fra-eng:  orage
+No definitions found for "d'enfant", perhaps you mean:
+fd-fra-eng:  enfant
+No definitions found for "fallait-il"
+No definitions found for "m'importe,", perhaps you mean:
+fd-fra-eng:  nimporte
+No definitions found for "homo"
+No definitions found for "t'arrache"
+No definitions found for "avions", perhaps you mean:
+fd-fra-eng:  avion
+No definitions found for "a", perhaps you mean:
+fd-fra-eng:  ah  al  an  as  au  c  j  la  l  ma  m  sa  ta  t
+  à
+No definitions found for "l'disais"
+No definitions found for "cherche", perhaps you mean:
+fd-fra-eng:  chercher
+No definitions found for "t'idéalise"
+No definitions found for "m'arrivait"
+No definitions found for "attends"
+No definitions found for "meme", perhaps you mean:
+fd-fra-eng:  même
+No definitions found for "repars", perhaps you mean:
+fd-fra-eng:  repas
+No definitions found for "fous", perhaps you mean:
+fd-fra-eng:  nous  sous  tous  vous  fois  fou  four
+No definitions found for "souviens?"
+No definitions found for "galbe", perhaps you mean:
+fd-fra-eng:  albe
+No definitions found for "rappelle-toi"
+No definitions found for "prochaines", perhaps you mean:
+fd-fra-eng:  prochaine
+No definitions found for "déprimé"
+No definitions found for "entraînés"
+No definitions found for "épave"
+No definitions found for "retrouvé"
+No definitions found for "j'fais"
+No definitions found for "ont", perhaps you mean:
+fd-fra-eng:  dont  mont  pont  on
+No definitions found for "es,", perhaps you mean:
+fd-fra-eng:  est  as  des  les  mes  os  en  er  et
+No definitions found for "su", perhaps you mean:
+fd-fra-eng:  suc  sud  sur  au  du  nu  ou  qu  tu  sa  si
+No definitions found for "café-crème"
+No definitions found for "vomis,", perhaps you mean:
+fd-fra-eng:  vomir
+No definitions found for "branchouille"
+No definitions found for "aurélie"
+No definitions found for "n'te", perhaps you mean:
+fd-fra-eng:  net  te  note
+No definitions found for "j'devrais"
+No definitions found for "crispe", perhaps you mean:
+fd-fra-eng:  crise
+No definitions found for "(céline),"
+No definitions found for "l'faites"
+No definitions found for "épanouis,"
+No definitions found for "qu'mon"
+No definitions found for "change", perhaps you mean:
+fd-fra-eng:  changer  chance
+No definitions found for "déshumanisent"
+No definitions found for "voulez,"
+No definitions found for "laissez", perhaps you mean:
+fd-fra-eng:  laisser
+No definitions found for "achète"
+No definitions found for "t'crois", perhaps you mean:
+fd-fra-eng:  trois
+No definitions found for "haine", perhaps you mean:
+fd-fra-eng:  aine  gaine  laine  haie
+No definitions found for "fuis-moi,"
+No definitions found for "miséreux"
+No definitions found for "regardé", perhaps you mean:
+fd-fra-eng:  regard
+No definitions found for "j'comptais"
+No definitions found for "penses?", perhaps you mean:
+fd-fra-eng:  penser
+No definitions found for "lalalalalala"
+No definitions found for "l'monde", perhaps you mean:
+fd-fra-eng:  monde
+No definitions found for "pires", perhaps you mean:
+fd-fra-eng:  pire
+No definitions found for "dites-moi"
+No definitions found for "famine", perhaps you mean:
+fd-fra-eng:  farine
+No definitions found for "lassitude)"
+No definitions found for "gard'ra"
+No definitions found for "respectes", perhaps you mean:
+fd-fra-eng:  respecter
+No definitions found for "pardonne", perhaps you mean:
+fd-fra-eng:  pardonner
+No definitions found for "chagrins", perhaps you mean:
+fd-fra-eng:  chagrin
+No definitions found for "hauts", perhaps you mean:
+fd-fra-eng:  haut
+No definitions found for "payé", perhaps you mean:
+fd-fra-eng:  pavé  paye  pays
+No definitions found for "('bataire)"
+No definitions found for "se", perhaps you mean:
+fd-fra-eng:  sec  sel  ce  de  je  le  me  te  sa  si
+No definitions found for "pourras"
+No definitions found for "l'aperçois"
+No definitions found for "faudra"
+No definitions found for "montmartre,"
+No definitions found for "t'avais"
+No definitions found for "(endométriose)"
+No definitions found for "belle", perhaps you mean:
+fd-fra-eng:  elle  pelle  selle  balle  bulle  belge
+No definitions found for "mauviettes"
+No definitions found for "voudra"
+No definitions found for "bénédictions"
+No definitions found for "compté", perhaps you mean:
+fd-fra-eng:  comité  compte
+No definitions found for "pensé", perhaps you mean:
+fd-fra-eng:  pensée  sensé
+No definitions found for "caché?"
+No definitions found for "couvre", perhaps you mean:
+fd-fra-eng:  couver  coudre
+No definitions found for "follow"
+No definitions found for "patéticienne"
+No definitions found for "d'les", perhaps you mean:
+fd-fra-eng:  les  des
+No definitions found for "attendions"
+No definitions found for "d'êtres"
+No definitions found for "d'balle", perhaps you mean:
+fd-fra-eng:  balle
+No definitions found for "dessiné", perhaps you mean:
+fd-fra-eng:  dessin
+No definitions found for "c'est", perhaps you mean:
+fd-fra-eng:  est  lest  cent
+No definitions found for "z'avez"
+No definitions found for "sauts", perhaps you mean:
+fd-fra-eng:  saut
+No definitions found for "petits", perhaps you mean:
+fd-fra-eng:  petit
+No definitions found for "sert?", perhaps you mean:
+fd-fra-eng:  vert  sort  sept
+No definitions found for "m'confier", perhaps you mean:
+fd-fra-eng:  confier
+No definitions found for "bonheur,"
+No definitions found for "j'attends"
+No definitions found for "qu'c'est"
+No definitions found for "doigts", perhaps you mean:
+fd-fra-eng:  doigt
+No definitions found for "hutu"
+No definitions found for "nue", perhaps you mean:
+fd-fra-eng:  une  que  rue  vue  nu  nul
+No definitions found for "emmenait"
+No definitions found for "suffit"
+No definitions found for "l'hymne", perhaps you mean:
+fd-fra-eng:  hymne
+No definitions found for "traîne,", perhaps you mean:
+fd-fra-eng:  traîner
+No definitions found for "regrette", perhaps you mean:
+fd-fra-eng:  regretter
+No definitions found for "mec,", perhaps you mean:
+fd-fra-eng:  bec  sec  me  mer  mes
+No definitions found for "j'me", perhaps you mean:
+fd-fra-eng:  me  âme  je
+No definitions found for "montmartre"
+No definitions found for "sera"
+No definitions found for "j'irais"
+No definitions found for "souriez-moi,"
+No definitions found for "transperce"
+No definitions found for "l'on", perhaps you mean:
+fd-fra-eng:  long  on  bon  con  don  mon  non  son  ton  lion
+  lin  loin  loi
+No definitions found for "minutes", perhaps you mean:
+fd-fra-eng:  minute
+No definitions found for "ben,", perhaps you mean:
+fd-fra-eng:  en  yen  bien  bon  bec
+No definitions found for "t'faire", perhaps you mean:
+fd-fra-eng:  faire  taire  traire
+No definitions found for "pousse", perhaps you mean:
+fd-fra-eng:  pousser  mousse  prusse
+No definitions found for "m'éloigner"
+No definitions found for "ferais", perhaps you mean:
+fd-fra-eng:  frais
+No definitions found for "serai"
+No definitions found for "changes", perhaps you mean:
+fd-fra-eng:  changer
+No definitions found for "illuminati"
+No definitions found for "verras,", perhaps you mean:
+fd-fra-eng:  verrat
+No definitions found for "d'malheur,", perhaps you mean:
+fd-fra-eng:  malheur
+No definitions found for "l'reste", perhaps you mean:
+fd-fra-eng:  reste
+No definitions found for "moyennant"
+No definitions found for "peuvent"
+No definitions found for "ça,", perhaps you mean:
+fd-fra-eng:  la  ma  sa  ta
+No definitions found for "est-c'que"
+No definitions found for "s'envolent"
+No definitions found for "passe", perhaps you mean:
+fd-fra-eng:  passer  masse  tasse  pause  passé
+No definitions found for "discutant"
+No definitions found for "j'appartiens"
+No definitions found for "culpabilité"
+No definitions found for "bonne", perhaps you mean:
+fd-fra-eng:  bonnet  tonne
+No definitions found for "crèvera"
+No definitions found for "perdue", perhaps you mean:
+fd-fra-eng:  perdre
+No definitions found for "irresponsables?"
+No definitions found for "cacas", perhaps you mean:
+fd-fra-eng:  cacao
+No definitions found for "admirables?", perhaps you mean:
+fd-fra-eng:  admirable
+No definitions found for "lueur", perhaps you mean:
+fd-fra-eng:  sueur  leur
+No definitions found for "t'trouvais"
+No definitions found for "qu'être", perhaps you mean:
+fd-fra-eng:  quatre  quête
+No definitions found for "hérité,", perhaps you mean:
+fd-fra-eng:  vérité
+No definitions found for "chahut"
+No definitions found for "né", perhaps you mean:
+fd-fra-eng:  té  noé  nu
+No definitions found for "maudissant"
+No definitions found for "serait-ce"
+No definitions found for "bonnes", perhaps you mean:
+fd-fra-eng:  bonnet
+No definitions found for "beaux", perhaps you mean:
+fd-fra-eng:  beau
+No definitions found for "disparu"
+No definitions found for "vainqueur"
+No definitions found for "carrière", perhaps you mean:
+fd-fra-eng:  arrière  barrière
+No definitions found for "j'souris", perhaps you mean:
+fd-fra-eng:  souris
+No definitions found for "aline,", perhaps you mean:
+fd-fra-eng:  laine  aine
+No definitions found for "rejaillit"
+No definitions found for "m'aime", perhaps you mean:
+fd-fra-eng:  maire
+No definitions found for "s'aiment"
+No definitions found for "ceux", perhaps you mean:
+fd-fra-eng:  deux  creux
+No definitions found for "tutsi?"
+No definitions found for "j'le", perhaps you mean:
+fd-fra-eng:  le  île  je
+No definitions found for "endort"
+No definitions found for "t'appelles"
+No definitions found for "débarrasses", perhaps you mean:
+fd-fra-eng:  débarrasser
+No definitions found for "sauvé"
+No definitions found for "souriait"
+No definitions found for "pleut", perhaps you mean:
+fd-fra-eng:  pleur
+No definitions found for "rappelle-toi,"
+No definitions found for "suis", perhaps you mean:
+fd-fra-eng:  puis  suie
+No definitions found for "chevalet"
+No definitions found for "parlerai"
+No definitions found for "l'bon", perhaps you mean:
+fd-fra-eng:  bon  lion
+No definitions found for "nourris", perhaps you mean:
+fd-fra-eng:  nourrir
+No definitions found for "masculin,"
+No definitions found for "phobe"
+No definitions found for "remplis", perhaps you mean:
+fd-fra-eng:  remplir
+No definitions found for "papi,", perhaps you mean:
+fd-fra-eng:  papa  pape
+No definitions found for "j'regrette"
+No definitions found for "sentiments", perhaps you mean:
+fd-fra-eng:  sentiment
+No definitions found for "payait"
+No definitions found for "l'tien", perhaps you mean:
+fd-fra-eng:  tien  lien
+No definitions found for "brosser,", perhaps you mean:
+fd-fra-eng:  rosser  brosse
+No definitions found for "transparent"
+No definitions found for "semblant?"
+No definitions found for "fatiguant"
+No definitions found for "mens", perhaps you mean:
+fd-fra-eng:  gens  sens  mes  menu
+No definitions found for "croira", perhaps you mean:
+fd-fra-eng:  croire
+No definitions found for "celles-là"
+No definitions found for "ennemie", perhaps you mean:
+fd-fra-eng:  ennemi
+No definitions found for "disent"
+No definitions found for "blanches"
+No definitions found for "balayé,"
+No definitions found for "l'atelier,", perhaps you mean:
+fd-fra-eng:  atelier
+No definitions found for "tiens", perhaps you mean:
+fd-fra-eng:  tiers  tien
+No definitions found for "riez,", perhaps you mean:
+fd-fra-eng:  riz  rien
+No definitions found for "(hmm,"
+No definitions found for "s'changer", perhaps you mean:
+fd-fra-eng:  changer  échanger
+No definitions found for "suicidaires,"
+No definitions found for "m'plaindre", perhaps you mean:
+fd-fra-eng:  plaindre
+No definitions found for "étions"
+No definitions found for "jusque", perhaps you mean:
+fd-fra-eng:  jusquà
+No definitions found for "perd"
+No definitions found for "est-c'qu'y"
+No definitions found for "oublie-moi,"
+No definitions found for "natasha"
+No definitions found for "badauds,"
+No definitions found for "hmm"
+No definitions found for "j'sais,"
+No definitions found for "t'arrivera"
+No definitions found for "n'est", perhaps you mean:
+fd-fra-eng:  est  lest  net
+No definitions found for "oiseaux", perhaps you mean:
+fd-fra-eng:  ciseaux  oiseau
+No definitions found for "louche", perhaps you mean:
+fd-fra-eng:  loucher  bouche  couche  douche  mouche  touche
+No definitions found for "frémira", perhaps you mean:
+fd-fra-eng:  frémir
+No definitions found for "créance"
+No definitions found for "cauchemar"
+No definitions found for "t'aime,", perhaps you mean:
+fd-fra-eng:  taie  taire
+No definitions found for "confinement"
+No definitions found for "défieras"
+No definitions found for "d'leurs"
+No definitions found for "l'avait"
+No definitions found for "t'dis"
+No definitions found for "taf", perhaps you mean:
+fd-fra-eng:  ta  tas
+No definitions found for "ragnagnas"
+No definitions found for "t'es?", perhaps you mean:
+fd-fra-eng:  des  les  mes  tas  te  tel
+No definitions found for "poings,", perhaps you mean:
+fd-fra-eng:  poing
+No definitions found for "qu'j't'ai"
+No definitions found for "hais)", perhaps you mean:
+fd-fra-eng:  mais  haie
+No definitions found for "j'vais"
+No definitions found for "d'erreur", perhaps you mean:
+fd-fra-eng:  erreur  terreur
+No definitions found for "prenez"
+No definitions found for "cette", perhaps you mean:
+fd-fra-eng:  dette  celte
+No definitions found for "d'animation", perhaps you mean:
+fd-fra-eng:  animation
+No definitions found for "c'était"
+No definitions found for "suicidaires"
+No definitions found for "coule", perhaps you mean:
+fd-fra-eng:  couler  boule  foule  moule  poule  colle  coude
+  couple  coupe
+No definitions found for "clochards"
+No definitions found for "cessions"
+No definitions found for "jusqu'au"
+No definitions found for "tombés"
+No definitions found for "mecs", perhaps you mean:
+fd-fra-eng:  mes
+No definitions found for "s'tu", perhaps you mean:
+fd-fra-eng:  stuc  tu
+No definitions found for "injuste?"
+No definitions found for "n'serai"
+No definitions found for "j'aime"
+No definitions found for "c'qu'on"
+No definitions found for "m'auriez"
+No definitions found for "malédictions"
+No definitions found for "l'étais,"
+No definitions found for "ferai"
+No definitions found for "débarras"
+No definitions found for "l'offre", perhaps you mean:
+fd-fra-eng:  offre  coffre
+No definitions found for "fabriquent"
+No definitions found for "chances", perhaps you mean:
+fd-fra-eng:  chance
+No definitions found for "goûté", perhaps you mean:
+fd-fra-eng:  goût
+No definitions found for "débarras,"
+No definitions found for "diras:"
+No definitions found for "désemparée,"
+No definitions found for "m'venger", perhaps you mean:
+fd-fra-eng:  venger
+No definitions found for "murs,", perhaps you mean:
+fd-fra-eng:  ours  mars  mur
+No definitions found for "met", perhaps you mean:
+fd-fra-eng:  et  net  pet  mot  muet  mât  me  mer  mes
+No definitions found for "d'avion", perhaps you mean:
+fd-fra-eng:  avion
+No definitions found for "que-que-que"
+No definitions found for "gardé", perhaps you mean:
+fd-fra-eng:  garde
+No definitions found for "leurs", perhaps you mean:
+fd-fra-eng:  leur
+No definitions found for "célébrations"
+No definitions found for "balayés"
+No definitions found for "hais,", perhaps you mean:
+fd-fra-eng:  mais  haie
+No definitions found for "saurais"
+No definitions found for "morts", perhaps you mean:
+fd-fra-eng:  mort
+No definitions found for "sais)", perhaps you mean:
+fd-fra-eng:  mais  sans  sain
+No definitions found for "d'y", perhaps you mean:
+fd-fra-eng:  de  du
+No definitions found for "hôtesse"
+No definitions found for "qu'a", perhaps you mean:
+fd-fra-eng:  quai  qu  que  qui
+No definitions found for "assis", perhaps you mean:
+fd-fra-eng:  rassis
+No definitions found for "couches", perhaps you mean:
+fd-fra-eng:  couche  coucher
+No definitions found for "choisi,", perhaps you mean:
+fd-fra-eng:  choisir
+No definitions found for "groupés"
+No definitions found for "d'coups"
+No definitions found for "passiez"
+No definitions found for "qu'madame"
+No definitions found for "d'en", perhaps you mean:
+fd-fra-eng:  dent  en  aden  eden  yen  don  de  des
+No definitions found for "font", perhaps you mean:
+fd-fra-eng:  dont  mont  pont  front  foot  fort  fond
+No definitions found for "d'jà", perhaps you mean:
+fd-fra-eng:  déjà
+No definitions found for "nathalie"
+No definitions found for "donné"
+No definitions found for "l'espace?", perhaps you mean:
+fd-fra-eng:  espace
+No definitions found for "l'insultant"
+No definitions found for "s'quitte"
+No definitions found for "ans", perhaps you mean:
+fd-fra-eng:  anse  dans  sans  as  an  anus
+No definitions found for "minable"
+No definitions found for "culs", perhaps you mean:
+fd-fra-eng:  cul
+No definitions found for "m'etourdir"
+No definitions found for "qu'après"
+No definitions found for "mesdames,"
+No definitions found for "followers"
+No definitions found for "vanter"
+No definitions found for "obligée"
+No definitions found for "vais", perhaps you mean:
+fd-fra-eng:  avis  mais  vis  vain
+No definitions found for "(y", perhaps you mean:
+fd-fra-eng:  c  j  l  m  t  à
+No definitions found for "l'échanger,", perhaps you mean:
+fd-fra-eng:  échanger
+No definitions found for "adversaires", perhaps you mean:
+fd-fra-eng:  adversaire
+No definitions found for "suis,", perhaps you mean:
+fd-fra-eng:  puis  suie
+No definitions found for "l'cœur", perhaps you mean:
+fd-fra-eng:  cœur
+No definitions found for "promis"
+No definitions found for "d'avoir", perhaps you mean:
+fd-fra-eng:  avoir  savoir  devoir
+No definitions found for "vieillit,"
+No definitions found for "pourrait"
+No definitions found for "vas-y,", perhaps you mean:
+fd-fra-eng:  vase
+No definitions found for "l'autre,", perhaps you mean:
+fd-fra-eng:  autre
+No definitions found for "aucune", perhaps you mean:
+fd-fra-eng:  aucun
+No definitions found for "raciste,"
+No definitions found for "rayons", perhaps you mean:
+fd-fra-eng:  rayon
+No definitions found for "tendres", perhaps you mean:
+fd-fra-eng:  tendre
+No definitions found for "ressemblent"
+No definitions found for "suit,", perhaps you mean:
+fd-fra-eng:  suite  huit  nuit  soit  subit  suie
+No definitions found for "détestables?"
+No definitions found for "s'affilie,", perhaps you mean:
+fd-fra-eng:  saffilier
+No definitions found for "t'aimerai"
+No definitions found for "rires", perhaps you mean:
+fd-fra-eng:  rire
+No definitions found for "regardez-moi,"
+No definitions found for "cet", perhaps you mean:
+fd-fra-eng:  et  net  pet  ce  cent
+No definitions found for "(eh)", perhaps you mean:
+fd-fra-eng:  ah  oh  en  er  et
+No definitions found for "'bataire"
+No definitions found for "d'été", perhaps you mean:
+fd-fra-eng:  été
+No definitions found for "épuisés,"
+No definitions found for "bousculent"
+No definitions found for "peu", perhaps you mean:
+fd-fra-eng:  peur  feu  jeu  pieu  pou  peau  pet
+No definitions found for "problèmes?", perhaps you mean:
+fd-fra-eng:  problème
+No definitions found for "t'aime", perhaps you mean:
+fd-fra-eng:  taie  taire
+No definitions found for "défilait"
+No definitions found for "l'oiseau", perhaps you mean:
+fd-fra-eng:  oiseau
+No definitions found for "t'aimes"
+No definitions found for "l'mérites"
+No definitions found for "parlons-en"
+No definitions found for "mamie", perhaps you mean:
+fd-fra-eng:  amie  magie  manie  marie
+No definitions found for "tient", perhaps you mean:
+fd-fra-eng:  teint  tien
+No definitions found for "m'aides"
+No definitions found for "coupé", perhaps you mean:
+fd-fra-eng:  coup  coupe
+No definitions found for "qu'il", perhaps you mean:
+fd-fra-eng:  quel  qui
+No definitions found for "parlerai)"
+No definitions found for "trémolos"
+No definitions found for "quelques-uns", perhaps you mean:
+fd-fra-eng:  "quelques uns"
+No definitions found for "hun", perhaps you mean:
+fd-fra-eng:  un
+No definitions found for "infidèles"
+No definitions found for "d'fois", perhaps you mean:
+fd-fra-eng:  fois
+No definitions found for "rempli", perhaps you mean:
+fd-fra-eng:  remplir
+No definitions found for "chers", perhaps you mean:
+fd-fra-eng:  cher
+No definitions found for "d'toi", perhaps you mean:
+fd-fra-eng:  toi
+No definitions found for "t'bouche", perhaps you mean:
+fd-fra-eng:  bouche  touche
+No definitions found for "enfanter"
+No definitions found for "donnent"
+No definitions found for "s'était"
+No definitions found for "jeunesse"
+No definitions found for "j't'ai"
+No definitions found for "paiement"
+No definitions found for "s'aimait"
+No definitions found for "restent", perhaps you mean:
+fd-fra-eng:  restant
+No definitions found for "rends"
+No definitions found for "t'hésites"
+No definitions found for "cache", perhaps you mean:
+fd-fra-eng:  cacher  cachet  hache  tache  vache  coche
+No definitions found for "étourdie,", perhaps you mean:
+fd-fra-eng:  étourdi
+No definitions found for "obscène"
+No definitions found for "appelle-moi"
+No definitions found for "rosa,", perhaps you mean:
+fd-fra-eng:  rose
+No definitions found for "annales"
+No definitions found for "crié,", perhaps you mean:
+fd-fra-eng:  cri
+No definitions found for "s'étouffe"
+No definitions found for "allez,", perhaps you mean:
+fd-fra-eng:  aller
+No definitions found for "macho,"
+No definitions found for "d'tendresse", perhaps you mean:
+fd-fra-eng:  tendresse
+No definitions found for "chante", perhaps you mean:
+fd-fra-eng:  chanter  chaste  chatte  chance
+No definitions found for "eh,", perhaps you mean:
+fd-fra-eng:  ah  oh  en  er  et
+No definitions found for "avez", perhaps you mean:
+fd-fra-eng:  avec  aveu
+No definitions found for "serons-nous"
+No definitions found for "venez,"
+No definitions found for "viendra,"
+No definitions found for "franchement,"
+No definitions found for "prévisibles,", perhaps you mean:
+fd-fra-eng:  prévisible
+No definitions found for "dis-moi:"
+No definitions found for "déteste", perhaps you mean:
+fd-fra-eng:  détester  détente
+No definitions found for "dit", perhaps you mean:
+fd-fra-eng:  lit  dix
+No definitions found for "épaules", perhaps you mean:
+fd-fra-eng:  épaule
+No definitions found for "remords"
+No definitions found for "années", perhaps you mean:
+fd-fra-eng:  année
+No definitions found for "(ah-ah-ah-ah,"
+No definitions found for "nuits", perhaps you mean:
+fd-fra-eng:  puits  nuit
+No definitions found for "viens"
+No definitions found for "j'en", perhaps you mean:
+fd-fra-eng:  en  yen  je  jeu
+No definitions found for "qu'du"
+No definitions found for "bourré"
+No definitions found for "pleuré,", perhaps you mean:
+fd-fra-eng:  pleur
+No definitions found for "qu'au", perhaps you mean:
+fd-fra-eng:  quai
+No definitions found for "pars", perhaps you mean:
+fd-fra-eng:  mars  pas  pays  par  parc  paris  part
+No definitions found for "seront"
+No definitions found for "uns", perhaps you mean:
+fd-fra-eng:  un  une  uni
+No definitions found for "suffoquant"
+No definitions found for "revienne"
+No definitions found for "lassitude"
+No definitions found for "sourires", perhaps you mean:
+fd-fra-eng:  sourire
+No definitions found for "j'irai"
+No definitions found for "serait"
+No definitions found for "pipis,"
+No definitions found for "odeurs", perhaps you mean:
+fd-fra-eng:  odeur
+No definitions found for "j'ai", perhaps you mean:
+fd-fra-eng:  bai  gai  mai
+No definitions found for "entré", perhaps you mean:
+fd-fra-eng:  entrée  entre
+No definitions found for "plait,", perhaps you mean:
+fd-fra-eng:  lait  plat  plaie
+No definitions found for "crois", perhaps you mean:
+fd-fra-eng:  trois  croix
+No definitions found for "s'est", perhaps you mean:
+fd-fra-eng:  est  lest  sept
+No definitions found for "veut", perhaps you mean:
+fd-fra-eng:  vent  vert  veuf
+No definitions found for "d'amour", perhaps you mean:
+fd-fra-eng:  amour
+No definitions found for "aime", perhaps you mean:
+fd-fra-eng:  amie  aimer  cime  lime  rime  arme  aide  aile
+  aine  aire
+No definitions found for "va", perhaps you mean:
+fd-fra-eng:  la  ma  sa  ta
+No definitions found for "(hmm)"
+No definitions found for "basse", perhaps you mean:
+fd-fra-eng:  masse  tasse  bosse
+No definitions found for "s'il", perhaps you mean:
+fd-fra-eng:  il  ail  cil  fil  nil  sel  sol  si  six
+No definitions found for "moments", perhaps you mean:
+fd-fra-eng:  moment
+No definitions found for "modestes", perhaps you mean:
+fd-fra-eng:  modeste
+No definitions found for "génies?", perhaps you mean:
+fd-fra-eng:  génie
+No definitions found for "mots", perhaps you mean:
+fd-fra-eng:  mois  mot  moto
+No definitions found for "vos", perhaps you mean:
+fd-fra-eng:  os  dos  vis  vous
+No definitions found for "profites", perhaps you mean:
+fd-fra-eng:  profiter
+No definitions found for "ça", perhaps you mean:
+fd-fra-eng:  la  ma  sa  ta
+No definitions found for "yeux", perhaps you mean:
+fd-fra-eng:  deux
+No definitions found for "cafés", perhaps you mean:
+fd-fra-eng:  café
+No definitions found for "câlin", perhaps you mean:
+fd-fra-eng:  clin
+No definitions found for "mami,", perhaps you mean:
+fd-fra-eng:  ami  mai  mali  mari
+No definitions found for "pardonne-moi,"
+No definitions found for "pénibles", perhaps you mean:
+fd-fra-eng:  pénible
+No definitions found for "philosophe", perhaps you mean:
+fd-fra-eng:  philosophie
+No definitions found for "promis,"
+No definitions found for "télé"
+No definitions found for "allumé"
+No definitions found for "vole", perhaps you mean:
+fd-fra-eng:  voler  eole  sole  voile  voie  vote  volt
+No definitions found for "c'qu'elle", perhaps you mean:
+fd-fra-eng:  quelle
+No definitions found for "s'envole"
+No definitions found for "soudées"
+No definitions found for "récitions"
+No definitions found for "détruit", perhaps you mean:
+fd-fra-eng:  détroit
+No definitions found for "oreilles", perhaps you mean:
+fd-fra-eng:  oreille  oreiller
+No definitions found for "j'sais"
+No definitions found for "d'amants,"
+No definitions found for "piqueras"
+No definitions found for "décrocher"
+No definitions found for "arrive", perhaps you mean:
+fd-fra-eng:  arriver  arrivée
+No definitions found for "m'tue"
+No definitions found for "d'aujourd'hui", perhaps you mean:
+fd-fra-eng:  aujourdhui
+No definitions found for "dangers,", perhaps you mean:
+fd-fra-eng:  danger
+No definitions found for "ni", perhaps you mean:
+fd-fra-eng:  nid  nil  si  uni  nu
+No definitions found for "mêmes,", perhaps you mean:
+fd-fra-eng:  même
+No definitions found for "humains", perhaps you mean:
+fd-fra-eng:  humain
+No definitions found for "dort", perhaps you mean:
+fd-fra-eng:  fort  mort  port  sort  tort  dont
+No definitions found for "compris"
+No definitions found for "pipi,", perhaps you mean:
+fd-fra-eng:  pipe
+No definitions found for "qu'est-c'qu'y'a"
+No definitions found for "franchement"
+No definitions found for "l'faire", perhaps you mean:
+fd-fra-eng:  faire
+No definitions found for "(bêtises)"
+No definitions found for "t'en", perhaps you mean:
+fd-fra-eng:  en  yen  tien  ton  te  tel
+No definitions found for "payé,", perhaps you mean:
+fd-fra-eng:  pavé  paye  pays
+No definitions found for "jolie", perhaps you mean:
+fd-fra-eng:  joie  joli
+No definitions found for "déconfinement"
+No definitions found for "dépenses", perhaps you mean:
+fd-fra-eng:  dépense  dépenser
+No definitions found for "patrie", perhaps you mean:
+fd-fra-eng:  partie
+No definitions found for "tes", perhaps you mean:
+fd-fra-eng:  des  les  mes  tas  te  tel
+No definitions found for "padam", perhaps you mean:
+fd-fra-eng:  adam  panam
+No definitions found for "fièrement"
+No definitions found for "bah", perhaps you mean:
+fd-fra-eng:  ah  bac  bai  bal  bar  bas  bath
+No definitions found for "mentale,", perhaps you mean:
+fd-fra-eng:  mental
+No definitions found for "ci,", perhaps you mean:
+fd-fra-eng:  cil  si  c  ce  cri
+No definitions found for "salaud"
+No definitions found for "amis,", perhaps you mean:
+fd-fra-eng:  mais  avis  amas  ami  amie
+No definitions found for "vivions"
+No definitions found for "wouh"
+No definitions found for "t'prends"
+No definitions found for "qu'une"
+No definitions found for "raciste"
+No definitions found for "endométriose,"
+No definitions found for "prie", perhaps you mean:
+fd-fra-eng:  pire  prier  pie  proie  prime  prise  prix
+No definitions found for "arlette,"
+No definitions found for "cigarettes", perhaps you mean:
+fd-fra-eng:  cigarette
+No definitions found for "était", perhaps you mean:
+fd-fra-eng:  état  étain
+No definitions found for "voulez-vous"
+No definitions found for "dis,", perhaps you mean:
+fd-fra-eng:  lis  pis  vis  des  dos  dès  dix
+No definitions found for "n'pleures"
+No definitions found for "?"
+No definitions found for "vestes", perhaps you mean:
+fd-fra-eng:  veste
+No definitions found for "misogyne,"
+No definitions found for "devrais-je"
+No definitions found for "l'un,", perhaps you mean:
+fd-fra-eng:  lune  un  alun  lin  lui
+No definitions found for "qu'j'fasse"
+No definitions found for "pensées", perhaps you mean:
+fd-fra-eng:  pensée
+No definitions found for "mis", perhaps you mean:
+fd-fra-eng:  mise  lis  pis  vis  mais  mes  mois
+No definitions found for "d'hashtag"
+No definitions found for "débats", perhaps you mean:
+fd-fra-eng:  débat
+No definitions found for "fout", perhaps you mean:
+fd-fra-eng:  bout  tout  foot  fort  fou  fouet  four
+No definitions found for "ai", perhaps you mean:
+fd-fra-eng:  ail  air  bai  gai  mai  si  ah  al  ami  an  as
+  au
+No definitions found for "paquets", perhaps you mean:
+fd-fra-eng:  paquet
+No definitions found for "solitude"
+No definitions found for "entraîne", perhaps you mean:
+fd-fra-eng:  entraîner
+No definitions found for "(arrivé)", perhaps you mean:
+fd-fra-eng:  arrivée
+No definitions found for "céline"
+No definitions found for "gosses", perhaps you mean:
+fd-fra-eng:  gosse
+No definitions found for "l'bordel,", perhaps you mean:
+fd-fra-eng:  bordel
+No definitions found for "fatigue", perhaps you mean:
+fd-fra-eng:  fatiguer  fatigué
+No definitions found for "reprends"

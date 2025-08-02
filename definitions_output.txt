@@ -1,17 +1,2454 @@
+["d't'façon,", 'quelques', 'certaine', 'foulard', 'oups,', 'notre', 'grand', 'oui', 'comédie', 'argent', 'arrange', 'célébrons', 'dit,', 'découvriras', 'chaque', 'servait', 'enfuie', 'corps', 'te', "d'être", "m'accuse", 'traîné', 'coup-ci', 'bas', 'conseiller', 'bleu', 'décor', 'caché,', 'impôts', 'rendez-vous,', 'responsable', 'prénom?', 'potes', 'madame,', "j'suis", 'bleu,', 'autre,', 'auprès', 'féministe', 'doux', 'quant', 'bras', 'veux,', 'idées', 'sont', 'présent', 'éclaboussée', 'retouche', 'monsieur', 'saint-louis', "m'ont", 'plus,', 'savoir', "qu'ils", 'chagrin', 'devine', 'pff,', 'arrivéе', "qu'j'aimerais", "n'arrange", 'posais', "d'abord,", 'pousse,', 'arc-en-ciel', 'emportée', "m'déprime", 'pieds', 'amour,', 'chose', 'vont', 'milords', 'vendu?', "d'parent", 'emmanuelle', 'parlent', 'deuils', "j'aurais", "qu'je", 'peut', 'pouce', 'aises', 'plaisirs', 'depuis', 'recule', 'paye', 'moins,', "d'tes", 'là,', 'putains', 'épris', 'sois', 'ciel', "d'autres", 'rats', 'vas?', "y'en", 'eux', 'conspirationniste,', 'journéе', 'trente-cinq', 'consomme,', 'douceur', "c'qui", 'adresse', 'tete', 'hier,', 'vestiaire', "l'parie", 'ous', "m'est", "t'as", 'marre', 'jesaistout', 'gueule,', "n'me", 'aura', 'pas', 'jours', "qu'elle", 'sophie', "l'amour", "p't-être", 'murmure', 'bon)', 'sens', 'resterai', 'mère', 'somme,', 'règles', 'même', 'quand', 'vivre', 'donnez-moi', "qu'l'amour", 'glisser', "l'bonheur", 'seul,', 'solitude)', 'célibat', 'réagir', 'tue,', 'malgré', 'dis-moi', 'combien', "s'paye", 'pleins', 'êtes', "n'y", 'es', 'week-end', "s'raient", 'sinon', 'subsiste', 'âme', "d'suite", "est-c'qu'on", 'que,', 'génie', 'bêtement', 'marron,', 'culotte', 'papa', 'mate', 'vous,', "s'ra", 'veux-tu', 'reviens', 'contraception', 'valises', 'dernière', 'quarante-huit', 'jour,', 'mal', 'indécent', 'bois', 'bercés', 'connais', 'chagrins,', 'banal', 'mythomaniste', 'visage,', "l'problème", 'dan-', 'mourir', "qu'tu", 'mûrement', "s'rait-il", 'client', 'là', 'première', 'déchire', 'chère', 'flot', 'merde', 'salope', "j'avais", 'connais,', 'chiante,', 'vraiment', 'blonde', 'like', 'règlement', 'flottant', 'côte', 'hommes,', 'bercy,', 'tambour', 'gnangnan', 'commence', 'nait', 'vacances', 'ne', 'encore', 'heure', 'aurons', 'arrête', 'prends', 'escalier', 'quelque', 'kate', 'bistrot', 'doit', 'pète', 'vient', 'portrait', "c'est?", 'santé', 'rencontrée,', 'prend', "l'essuie", 'toutes', 'blanc', 'vaut', 'perds', 'plans', 'sais,', 'vieille', 'amis', 'twitter', 'souffrent', 'parler', 'cru', 'choisis', "d'aimer", 'fond', 'calme', 'garde', 'courtisent', 'cesses', 'oui,', 'comme', 'drame', "d'aussi", 'trouve-toi', "qu'en", 'propre', 'péris', 'tourner', 'meilleur', 'joies', 'formidable,', 'bon', 'nos', 'du:', 'mangions', 'tour', 'ok', 'indécis', 'pardonner,', "p'tit", 'hier', 'oublié', 'tomber', "l'éternité", 'payée', "s'aimera", 'comment', 'aidez', 'draps', 'pire', 'auras', 'femme,', "s'tourne", "dev'nu", 'dieu,', 'crises,', 'tournerait', 'pleurez,', 'passes', 'vu', 'réfléchir', "l'envers", "l'ai", 'toilettes', "qu'un", 'bonheur)', '(me', 'siècles,', 'meurs,', 'souffrir', 'temps-là', 'peur', 'enlacés', 'traite', "j'vous", "j'peux", 'enfanter)', 'la', "t'ai", 'avant,', 'juré', 'gueux', "l'hiver", 'paris', 'demande', "qu'ça", 'pourquoi', 'crie', "c'que", 'commencé', 'voilà', 'voulait', 'couple', 'coup', 'taire', "l'accordéon", 'absents', 'pilote', "lorsqu'on", 'horaires', 'cries', 'rien,', '(la', 'faire,', "t'larguer", 'jeunes', "qu'on", 'seule', 'préféré', 'débarrasses,', 'mets', 'veux', 'moi)', 'longs?', 'manege', 'dire', "l'week-end", 'mourrai', "n'ai", 'draguer', 'couve', 'soulevés,', 'seins', '(yepa)', 'souvent', 'tout,', 'champions', 'espoir,', 'bébés', 'prochain', 'ronde', 'pessimiste?', 'trinque', 'fautеuil', 'venez', 'paraît', 'métier', 'y', 'aimé,', 'accrochait', 'réveiller', 'lune', 'enchantée', 'non,', 'inondera', 'iras', 'sourit,', 'pleurs', 'thunes', "y'a", "s'aime,", 'ciel,', "l'espoir", 'pour', 'dis-moi,', 'quatorze', 'odeurs)', 'égal', 'et', 'insultée', 'homme', 'danse', 'croit', 'moche', 'lutte', 'façon,', 'toi', "d'un", "s'arranger", 'donne', 'fais', 'trompe', "n'entends", 'faudrait', "s'éloigne", 'doux,', 'connards', 'assez', 'fera', 'cherchée', 'ravis,', 'vers', 'caca,', 'eh', 'diras', "d'où", "t'emballe", 'aurait', 'toi,', 'grosse', 'marin-pêcheur', 'tristes?', 'vanter)', 'juger,', "j'préfère", "n'étiez", 'racines', 'problème,', 'sais', 'veille', 'est', 'mains', 'fenêtres', 'heures', 'aventure', "qu'ce", 'emma', 'repas', 'offre', 'partout,', "l'air", 'pied', 'effort', 'circulez,', 'biscuit', 'vite', 'voici', 'toile', "s'effacent", 'soleil', 'resto,', 'terre?', "j'arrête", 'lalalalalala,', 'padam,', 'probleme', "qu'est", 'chantez,', 'brisait', 'ah', 'tête', 'dépressif', "t'es", 'amour),', 'merci,', "t'arrête", 'musiciens,', 'blablablas', 'semble', 'île', 'sort', 'joyeux,', 'de', 'roi', 'plein', 'mécréant', 'gris', 'droite', 'mannequins', 'saveur', "(c'est", 'bat', 'fortune', 'eu', 'car', 'fete', 'douce', 'normal', 'couches,', "n'célèbrent", 'pleure', 'étais', 'peines', 'miens', 'moss', "t'reste", 'hein?', 'délire', 'royaume', 'criais', 'romance', 'gentil', 'parle', 'comprendre', 'flonflons', 'mien,', 'laisse-toi', 'écrasés', 'avec,', 'proches', 'sert', 'fêlé', 'lеs', "d'abord", 'petite,', 'beauf', "f'ras", 'née', 'mon', 'noir,', 'devient', "l'corps", "c'qu'il", "l'ennui", '(que', 'laura', "c'est,", "l'heure", 'tonnerre', 'poumon', "j'étais", 'bouffé', 'emportés', 'jeter', 'alors', 'besoin', "l'sucer", 'solo', 'connaître', 'finalement', 'zik', 'garni,', "n'a", 'sait', 'cultrice', "m'importent", 'solfège', 'insomniaques', "j'rigole", "j'pourrais", 'finira', "qu'est-ce", 'pleurer', 'faute', 'réunit', 'est-ce', 'bonheur', 'oh,', 'jettes,', 'père', 'flamand', 'doute', "j'l'aurais", 'les', 'lui', 'très', 'parlé', 'divorce', 'vanter,', 'crois-tu', 'formons', 'ouais', 'manière', 'froid', 'sous', "qu'y", "l'homme", 'arrête,', 'aviez', 'donc', "'s", 'allez-y,', 'musiciens', 'papas', "d'humeur", 'mille', 'soigne', 'multiplie', "n'm'avez", 'enchanté,', 'bouge', 'votre', 'laisse', 'an', "s'aime", 'du', 'dehors,', 'manières?', 'devoir', 'et,', 'reviens,', 'viennent', "t'achètes", 'dit:', 'ah-ah-ah-ah)', 'prime', 'choix', 'fait', 'renierais', 'restes!', 'macaques', 'unique', "d'entre", "s'aimerait", 'puis,', "r'part", "m'sens", 'quotidien', 'avec', 'sûrement', 'gestes', "j'avoue", 'fleurit', 'juste', 'rira', 'han,', 'arrière', "f'ra", 'ta', "d'anniversaire", 'cheap,', 'souvenirs', 'pourrais', 'jours,', 'papa,', 'traînée', 'dis', 'quoi', 'éloigne', "m'avait", 'revois', 'fois', 'aucun', 'jamais', 'singe', 'retouchant', 'toujours', 'paname', "s'écrouler", 'enivrés', 'persiste', 'ses', 'pute,', 'elles', 'charge', "l'autre", 'meilleure', 'frôlé', 'bien,', 'es-tu', 'mais', 'soir,', 'ensuite', 'prendra', 'rendra', 'crise', 'quoi,', 'rues', "j'entends", 'ensemble', 'rageux', 'autres', 'ici', 'réveille', "d'débats", 'non', 'dont', 'confortable', 'décidément,', 'bout', 'avances?', "t'y", 'pluie', 'merci', 'différence,', "s'entrebattre", 'cris,', 'est,', 'mystere', "l'un", 'môme', 'chambre', "l'humeur,", "l'prendre,", 'savais', 'nettoies', 'veuch', 'hmm,', 'pardon,', 'présents', 'vois', 'levé', "l'fait", 'ait', "qu'avant", 'fureur', 'rage', 'toute', "m'tue,", "d'idéaux,", 'voyons,', 'avait', 'terroriste', 'faut,', 'planete', "d'accord,", 'quoi?', 'parfaite', 'égoïstes', 'quarante,', 'caca', 'marinier', 'ou,', 'boulot', "l'ombre", 'blesse', "l'impression", 'point', 'enchaînés', 'matins', "l'humble", "d'avis", 'demie', "j'aimerais", "m'obsède", "s'asseyait", 'amant', "s'effondrer", 'gamin', 'voler', 'milliers', 'réglé', 'plage', 'vacances?', 'aller,', 'lèverai', "l'restе", 'bohème', 'verres', 'demandais', 'armoire?', 'gloire', 'justement,', 'pres', 'lit', 'regarder', 'trips', 'paris?', "l'immensité", 'folle', 'traîne', 'eva', 'bobo', "s'y", 'réfléchi', 'nicolas', 'feu', 'camion', 'construit', 'croire', 'pourries', 'boit', 'éternelle', 'demoiselle', 'ferme', "l'malheur", 'ramène', 'trente', "s'élance", 'hélas', 'vous', 'ma', 'travail', 'on', 'viens,', 'fini', "qu'j'fais", 'finit', 'retombent,', 'formidables', 'universel', 'chaise', 'après', 'prenait', 'soit', 'jaloux', 'paris,', 'pensais', 'ennuis', 'garçon', 'à', 'tiers-', 'célébrait', 'courant', 'calme,', 'verrez', 'non?', 'ramasses', 'géniteurs', 'mère,', "l'coup,", 'slips', 'accompagné,', 'saints,', 'entre', 'rire', 'oh)', 'cote', 'vies', "l'courage", 'comblait', 'seraient', 'coeur', 'faites', "m'en", "y'avait", 'arrivé', 'aimes', 'vie', 'musique?', 'plastique', 'écouter,', 'peux', "d'moins", 'tien', 'promets', "m'idéalises,", 'regarde', 'reconnais', 'mêmes', 'laissez-vous', 'ancienne', 'voulu', "d'raison", 'prises', 'terre', 'toujours)', 'éclaircies', 'déjà', "n'vois", 'enfants', "l'temps", 'mienne', 'faut', 'rebondissent', 'soi', 'reconnue', 'marchiez', "t'es,", "m'trouveras", "j'te", 'moitié', "m'aimes", 'ans,', 'joyeux', 'huissier', 'farandole,', 'papiers', 'près', "m'étonnes", 'dieu', 'coin', 'meillеure', 'amours', 'cite', 'partage,', 'plu', 'bâtard,', 'bêtises', 'problèmes', 'souviens-toi', 'écoutez', 'où', 'abandonne', 'fois,', 'finit,', 'ou', 'parce', 'prennent', 'ben', "n'en", 'bah,', 'manger', 'bouche', 'dites-nous', "s'arrête", "l'après", 'enfer', 'crasses', 'dicton', 'nid,', 'cinq', "l'arracher", 'marchent', 'ombre', 'coups', 'cherches', 'éclatant', 'héros', 'ces', "m'emmerde", 'naturel', 'table', 'voisins,', 'revient,', 'accompagné', 'milord', 'valérie,', 'connait', "n'ont", 'douleur,', 'dessin', "s'en", 'sors', 'tendre', 'oubliant', 'retourne,', 'autant', "t'inquiète", 'comptait', 'payes', 'dire,', 'millions', 'étude', 'ballants', 'clinquant', "d'la", 'devenu', "l'existence", '(de', 'souvent,', 'puisse', 'hommes', 'verrai', 'éclatent', 'vrai,', 'négociable', 'mouillé', 'méprises', "l'orage", 'prochain?', "d'enfant", 'vers,', 'fallait-il', "m'importe,", 'homo', "t'arrache", 'passé', 'avions', 'a', 'suite', "l'disais", 'cherche', "t'idéalise", "m'arrivait", 'singe,', 'cœur', 'attends', 'meme', 'repars', 'fous', 'souviens?', 'galbe', 'rappelle-toi', 'prochaines', 'poêle,', 'nuit', 'déprimé', 'entraînés', 'épave', 'retrouvé', 'vouloir', "j'fais", 'ont', 'es,', 'su', 'café-crème', 'vomis,', 'branchouille', 'aurélie', "n'te", "j'devrais", 'crispe', '(céline),', 'parents', 'bizarre', "l'faites", 'épanouis,', "qu'mon", 'facile', 'change', 'vrai', 'odeur', 'trois', 'cent,', 'déshumanisent', 'loi', 'arrivée', 'voulez,', 'fumer', 'élever,', 'laissez', 'ticket', 'mieux', 'achète', 'au', "d'ailleurs", "t'crois", 'triste', 'oh', 'haine', 'fuis-moi,', 'loin', 'parfois', 'moi?', 'miséreux', 'regardé', 'travailler', "j'comptais", 'penses?', 'lalalalalala', "l'monde", 'sécurité', 'pires', 'le', 'dites-moi', 'famine', 'lassitude)', "gard'ra", 'respectes', 'foule', 'dignité', 'pardonne', 'cage,', 'chagrins', 'rien', 'hauts', 'payé', 'style', 'célibataire', "('bataire)", 'se', 'pourras', "l'aperçois", 'faudra', 'cri', 'montmartre,', "t'avais", '(endométriose)', 'belle', 'mauviettes', 'cinquante,', 'voudra', 'pas,', 'bénédictions', 'amour', 'compté', 'pensé', 'caché?', 'couvre', 'follow', 'chaud,', 'patéticienne', "d'les", 'attendions', 'quelle', "d'êtres", "d'balle", 'dessiné', "c'est", '(mon', 'seul)', "z'avez", 'air', 'sauts', 'petits', 'sert?', 'oiseau', 'grave', "m'confier", 'bonheur,', 'sans,', "j'attends", 'seul', 'des', 'tard', 'partie,', 'hein', 'autour', "qu'c'est", 'doigts', 'hutu', 'nue', 'cent', 'emmenait', 'rose', 'suffit', "l'hymne", "d'eux", 'traîne,', 'frais', 'barbu', 'revoir', 'regrette', 'mec,', "j'me", 'montmartre', 'mademoiselle', 'sera', "j'irais", 'souriez-moi,', 'transperce', "l'on", 'minutes', 'ben,', 'profession', 'aryen', "t'faire", 'pousse', "m'éloigner", 'deux', 'ferais', 'difficile', 'dedans', 'serai', 'as', 'changes', 'illuminati', 'verras,', "d'malheur,", 'garder', 'sable', 'il', "l'reste", 'cruel,', "n'importe", 'émotion,', 'marié', 'entier', 'bande', 'moyennant', 'peuvent', 'ça,', 'personne', 'bien', 'mine', "est-c'que", 'ligne', "s'envolent", 'bavarder', 'passe', 'un', 'discutant', 'vingt', "j'appartiens", 'derrière', 'culpabilité', 'bonne', 'peuple', 'droit', 'crèvera', 'perdue', 'santé)', 'fier,', 'irresponsables?', 'cacas', 'changer', '(je', 'admirables?', 'lueur', "t'trouvais", "qu'être", 'lilas', 'hérité,', 'sûr,', 'chahut', 'né', 'maudissant', 'serait-ce', 'bonnes', 'beaux', 'putain', 'petit', 'disparu', 'vainqueur', 'carrière', 'soir', "j'souris", 'dans', 'aline,', 'rejaillit', 'gauche?', "m'aime", "s'aiment", 'ceux', 'tutsi?', 'chance', "j'le", 'plutôt', 'tant', 'auquel', 'endort', "t'appelles", 'moins', 'aussi,', 'rose,', 'débarrasses', 'sauvé', 'heureux,', 'souriait', 'pleut', 'peine', 'rappelle-toi,', 'matin', 'idiot', 'chanter,', 'habit', 'suis', 'imbécile?', 'fils', 'chevalet', 'oh!', 'parlerai', "l'bon", 'nourris', 'fait,', 'masculin,', 'phobe', 'remplis', 'papi,', "j'regrette", 'trou', 'sentiments', 'payait', "l'tien", 'brosser,', 'ailleurs,', 'transparent', 'semblant?', 'verre', 'fatiguant', 'sexuel', 'plus', 'finir,', 'enfin', 'mens', 'croira', 'autrement', 'celles-là', 'ennemie', 'disent', 'joie)', 'blanches', 'prénom', 'balayé,', "l'atelier,", 'tiens', 'riez,', '(hmm,', "s'changer", 'suicidaires,', 'encore!', "m'plaindre", 'étions', 'drôle', 'jusque', 'boulanger', 'baisser', 'ville', 'chanson,', 'lorsque', 'perd', 'albert,', 'trop', "est-c'qu'y", 'oublie-moi,', 'ami', 'natasha', 'badauds,', 'bon,', 'hmm', '(mais,', "j'sais,", 'devant', "t'arrivera", "n'est", 'amoureux,', 'oiseaux', 'louche', 'nombril', 'frémira', 'créance', 'heureusement', 'sept', 'cauchemar', "t'aime,", 'confinement', 'défieras', "d'leurs", 'elle', 'parti', "l'avait", 'visage', "t'dis", 'taf', 'ragnagnas', 'pourtant,', "t'es?", 'poings,', "qu'j't'ai", 'innocent', 'hais)', "j'vais", 'lever', 'temps', "d'erreur", 'prenez', 'cette', 'moment', "d'animation", 'fleuve', "c'était", 'suicidaires', 'coule', 'clochards', 'cessions', "jusqu'au", 'parfait,', 'tombés', 'mecs', 'fête', "s'tu", 'passer', 'peut-être', 'injuste?', "n'serai", 'mode', "j'aime", "c'qu'on", 'monde', "m'auriez", 'bête', 'teindre', 'malédictions', 'fait?', 'voilà,', "l'étais,", 'ferai', 'vide', 'débarras', "l'offre", 'seulement', 'fabriquent', 'demain', 'chances', 'goûté', 'santé,', 'débarras,', 'diras:', 'papa?', 'désemparée,', "m'venger", 'murs,', 'met', 'vrai?', "d'avion", 'que-que-que', 'son', 'gardé', 'creux', 'dès', '(pour', 'leurs', 'célébrations', 'balayés', 'tous', 'hais,', 'fille,', 'saurais', 'morts', 'appris', 'ce', 'beaucoup', 'sais)', 'doigt', 'rouge?', 'côté', "d'y", 'maintenant', 'orage,', 'hôtesse', 'couche', "qu'a", 'assis', 'porte', 'couches', 'choisi,', 'groupés', "d'coups", 'anneau,', 'tout', 'passiez', 'courtois', "qu'madame", "d'en", 'mais,', 'font', 'finir', 'frotter,', "d'jà", 'nathalie', 'donné', "l'espace?", "l'insultant", 'par', "s'quitte", 'vite,', 'ans', 'minable', 'culs', "m'etourdir", 'évident', "qu'après", 'être', 'mesdames,', 'followers', 'rue', 'vanter', 'naissance', 'huit', 'obligée', 'hasard', 'connu,', 'vais', 'guerre', '(toujours', 'fort', '(y', 'asseoir', 'soudain,', 'surtout', "l'échanger,", 'contre', 'vue', 'important', 'cul', 'adversaires', 'suis,', 'évidemment,', "l'cœur", 'dur', 'promis', "d'avoir", 'cancer', 'rabais', 'vieillit,', 'pourrait', 'me', 'soudain', 'haut', 'vas-y,', 'sa', 'poli,', "l'autre,", 'montre', 'aucune', 'raciste,', 'rayons', 'tendres', 'ressemblent', 'suit,', 'fille', 'détestables?', "s'affilie,", 'avoir', 'secret', "t'aimerai", 'rires', 'regardez-moi,', 'cet', 'aller', "d'une", 'somme', 'erreur,', '(eh)', "'bataire", "d'été", 'épuisés,', 'bousculent', 'peu', 'problèmes?', 'rendez-vous', "t'aime", 'défilait', 'cancer,', "l'oiseau", "t'aimes", "l'mérites", 'parlons-en', 'mamie', 'tient', 'enfant', "m'aides", 'coupé', "qu'il", 'parlerai)', 'trémolos', 'quelques-uns', 'hun', 'infidèles', 'aux', "d'fois", 'dehors', 'rempli', 'moi', 'que', 'sentiment', 'chacun', 'sein,', "l'a", 'chers', "d'toi", "t'bouche", 'enfanter', 'donnent', 'sourire', 'mère?', 'reste', "s'était", 'jeunesse', "j't'ai", 'bébé', 'mal,', 'wallon?', 'paiement', 'prix,', "s'aimait", 'restent', 'rends', "t'hésites", 'autre', 'cache', 'maman', 'vie,', 'étourdie,', 'obscène', 'appelle-moi', 'rosa,', 'annales', 'crié,', "s'étouffe", 'dormir', 'après,', 'allez,', 'parmi', 'macho,', "m'a", "d'tendresse", 'chante', 'eh,', 'avez', 'serons-nous', 'venez,', 'place', 'viendra,', 'hanche', 'franchement,', 'sacré', 'prévisibles,', "qu'", 'routine', 'dis-moi:', 'déteste', 'aussi', 'dit', 'épaules', 'en', 'remords', 'années', 'guider', '(ah-ah-ah-ah,', 'nuits', 'viens', 'battre', "j'en", "qu'du", 'dette', 'problème', 'bourré', 'sans', 'pleuré,', "qu'au", 'hôte', 'pars', 'sur', 'seront', 'gens', 'mois?', 'uns', 'attirant', 'ensuite,', 'suffoquant', 'revienne', 'lassitude', 'amour)', 'sourires', "j'irai", 'serait', 'je', "aujourd'hui,", 'gronder', 'faire', 'pipis,', 'odeurs', "j'ai", 'entré', 'chauffeur', 'juste?', 'avant', 'qui', 'plait,', 'crois', "s'est", 'ventre', 'veut', "d'amour", 'aime', 'voix', 'barre', 'heureux', 'va', '(hmm)', 'basse', "quelqu'un", 'tu', "s'il", 'moments', 'rôle', 'choses', 'modestes', 'musique', 'génies?', 'mots', 'vos', 'toujours,', 'ah,', '(oui,', 'profites', 'pont', 'ça', 'froid,', 'puis', 'yeux', 'trouver', 'cafés', 'câlin', 'mami,', 'sourd', 'reprendre', 'pardonne-moi,', 'fauteuil', 'pénibles', 'philosophe', 'promis,', 'télé', 'allumé', 'vole', 'infirmière', 'soie', "c'qu'elle", "s'envole", 'frotter', 'soudées', 'parole', 'récitions', 'détruit', 'oreilles', "j'sais", 'chaîne', 'puisque', "d'amants,", 'piqueras', 'nouveau', 'décrocher', 'formidable', 'beau', 'arrive', 'oublier', "m'tue", "d'aujourd'hui", 'héros)', 'dangers,', 'ni', 'mêmes,', 'humains', 'manque', 'dort', 'compris', 'pipi,', "qu'est-c'qu'y'a", 'réveil', 'franchement', 'part', "l'faire", '(bêtises)', 'jour', "t'en", 'payé,', 'méchant', 'consommation', 'jolie', 'déconfinement', 'moi,', '(tu', 'dépenses', 'si', 'madame', 'patrie', 'crédit', 'tes', 'padam', 'fièrement', 'bah', 'lessive', 'mentale,', 'mort', 'ci,', 'salaud', 'amis,', 'journée', 'fier', 'pourquoi,', 'vivions', 'wouh', 'longtemps', 'port', 'mes', "t'prends", "qu'une", 'raciste', 'endométriose,', 'prie', 'arlette,', 'cigarettes', 'était', 'voulez-vous', 'dis,', "n'pleures", 'ton', '?', 'dame', 'vestes', 'misogyne,', 'devrais-je', 'maman,', "l'un,", 'cause', "qu'j'fasse", 'leur', 'juillet', 'zéro', 'pensées', 'mis', "d'hashtag", 'facile,', 'débats', 'fout', 'ai', 'paquets', 'malheureux', 'ils', 'solitude', 'une', 'entraîne', '(arrivé)', 'navire', 'céline', 'gosses', 'que:', "l'bordel,", "qu'elles", 'pauvre', 'fatigue', 'joie', 'reprends', 'aussi?', 'nous']1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  foulard /fulaʀ/ <n, masc>
+  scarf, headscarf
 1 definition found
 
 From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
 
-  leur /lœʀ/
-  1. them, to them
-  2. their
-  3. her, his, its
+  grand /gʀɑ̃/ <adj>
+  big, great, large
 1 definition found
 
 From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
 
-  ils /il/ <pron>
+  oui /wi/
+  yes
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  argent /aʀʒɑ̃/ <n, masc>
+  1. silver
+  2. money
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  chaque /ʃak/
+  each, every
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  corps /kɔʀ/ <n, masc>
+  body
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  te /tə/
+  1. thee, to thee, to you
+  2. you
+2 definitions found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  bas /ba/ <n, masc>
+  1. stocking
+  2. lower part, foot, bottom
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  bas /ba/ <adj>
+  low
+2 definitions found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  conseiller /kɔ̃sɛje/ <v>
+  advise, counsel
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  conseiller /kɔ̃sɛje/ <n, masc>
+  leader
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  bleu /blø/ <adj>
+  1. blue
+  2.  [cul] very rare, very slightly cooked
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  décor /dekɔʀ/ <n, masc>
+  décor, decoration
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  rendez-vous /ʁɑ̃dˈevˈu/ <n, masc>
+  appointment, date, rendezvous
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  responsable /ʀɛspɔ̃sabl/ <adj>
+  accountable, responsible
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  prénom /pʀenɔ̃/ <n, masc>
+  1. first name
+  2. Christian name
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  madame /madam/ <n, fem>
+  1. lady
+  2. madam, Mrs.
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  bleu /blø/ <adj>
+  1. blue
+  2.  [cul] very rare, very slightly cooked
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  autre /otʀ/ <adj>
+  1. other, another, else
+  2. additional, remaining, rest of
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  auprès /opʀɛ/ <adj>
+  close, near, nearby
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  doux /du/ <adj>
+  mild, gentle, soft, sweet, tender
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  bras /bʀa/ <n, masc>
+  arm
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  présent /pʀezɑ̃/ <n, masc>
+  1. (the) present
+  2. gift, present
+2 definitions found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  monsieur /məsjø/ <n, masc>
+  gentleman
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  Monsieur /məsjø/
+  1. sir
+  2. mister, Mr.
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  mont /mɔ̃/ <n, masc>
+  mountain
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  plus /ply/ <adv>
+  1. more
+  2. else, further, on
+  3. plus
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  savoir /savwaʀ/ <v>
+  know, know how
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  chagrin /ʃagʀɛ̃/ <n, masc>
+  affliction, grief, sorrow
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  d'abord /dabɔʀ/
+  1. certainly, indeed, rather, surely
+  2. at first, at the outset, in the beginning
+  3. at once, instantly, immediately, without delay
+  4. just, right away, right now
+  5. first, firstly, first of all
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  arc-en-ciel /ˈaʁkɑ̃sjˈɛl/ <n, masc>
+  rainbow
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  amour /amuʀ/ <n, masc>
+  affection, love
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  chose /ʃoz/ <n, fem>
+  1. affair, business, business deal, case, matter
+  2. thing
+  3. article, object
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  pouce /pus/ <n, masc>
+  thumb
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  depuis /dəpɥi/
+  from, since
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  paye /pɛj/ <n, fem>
+  payment
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  moins /mwɛ̃/ <adv>
+  minus
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  là /la/ <adv>
+  there
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  ciel /sjɛl/ <n, masc>
+  heaven, sky
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  yen /jɛn/ <n, masc>
+  yen
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  adresse /adʀɛs/ <n, fem>
+  1. address
+  2. expertness, skill, skillfulness
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  hier /je/ <adv>
+  yesterday
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  vestiaire /vɛstjɛʀ/ <n, masc>
+  cloakroom
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  tas /ta/ <n, masc>
+  1. accumulation, crowd, heap, mass, multitude
+  2. pile, stack
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  gueule /gœl/ <n, fem>
+  jaws, maw
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  aura /oʀa/ <n, fem>
+  aura
+2 definitions found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  pas /pa/ <n, masc>
+  pace, step, stride
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  pas /pa/ <adv>
+  not
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  quelle /kɛl/
+  who
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  Sophie /sofi/ <n>
+  Sofia
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  murmure /myʀmyʀ/ <n, fem>
+  murmur
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  bon /bɔ̃/
+  good, nice, okay
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  sens /sɑ̃s/ <n, masc>
+  meaning, sense
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  mère /mɛʀ/ <n, fem>
+  mother
+2 definitions found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  somme /sɔm/ <n, masc>
+  nap, snooze
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  somme /sɔm/ <n, fem>
+  amount, sum
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  même /mɛm/ <adj>
+  1. even, same
+  2. self, herself, himself, itself
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  quand /kɑ̃/ <conj>
+  when
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  vivre /vivʀ/ <v>
+  be alive, live
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  glisser /glise/ <v>
+  glide, slip
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  seul /sœl/ <adj>
+  alone, only, sole, solitary
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  malgré /malgʀe/ <prep>
+  despite, in spite of, notwithstanding
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  combien /kɔ̃bi/ <adj>
+  1. how many
+  2. how much
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  week-end /wikɛnd/ <n, masc>
+  week-end
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  âme /ɑm/ <n, fem>
+  soul
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  que /kə/
+  1. that, who
+  2. than
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  génie /ʒeni/ <n, fem>
+  genius
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  marron /maʀɔ̃/ <n, masc>
+  chestnut
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  culotte /kylɔt/ <n, fem>
+  1. drawers, panties, underpants
+  2. short pants, shorts
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  papa /papa/ <n, masc>
+  dad, daddy
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  vous /vu/ <pron>
+  1. to you, you
+  2. ye
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  jour /ʒuʀ/ <n, masc>
+  day
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  mal /mal/ <n, masc>
+  1. ache, pain
+  2. pity
+  3. bad, miserable, nasty, poor
+  4. badly
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  bois /bwa/ <n, masc>
+  1. forest, woods
+  2. timber, wood
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  banal /banal/ <adj>
+  commonplace, dismal, trite
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  visage /vizaʒ/ <n, masc>
+  face
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  mourir /muʀiʀ/ <v>
+  die, expire, pass away
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  client /kliɑ̃/ <n, masc>
+  client, customer
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  là /la/ <adv>
+  there
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  flot /flo/ <n, masc>
+  1. fluid, liquid
+  2. torrent, volley
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  merde /mɛʀd/ <n, fem>
+  shit
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  vraiment /vʀɛmɑ̃/ <adv>
+  absolutely, genuinly, indeed, really, truly
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  règlement /ʀɛgləmɑ̃/ <n, masc>
+  1. settlement, acquittal, payment, full payment
+  2. regulations, rules
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  flottant /flɔtɑ̃/ <adj>
+  fluttering
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  côte /kot/ <n, fem>
+  1. acclivity, hillside, slope
+  2. coast, seaside, shore
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  tambour /tɑ̃buʀ/ <n, masc>
+  drum
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  vacances /vakɑ̃se/ <n, masc>
+  holidays
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  encore /ɑ̃kɔʀ/ <adv>
+  1. more, still, yet
+  2. afresh, again, once more, all over again, anew
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  heure /œʀ/ <n, fem>
+  hour, o'clock, time
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  escalier /ɛskalje/ <n, masc>
+  staircase, stairs
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  quelque /kɛlkə/
+  a few, any, some
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  portrait /poʀtʀɛ/ <n, masc>
+  portrait
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  santé /sɑ̃te/ <n, fem>
+  health
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  toutes /tut/
+  both
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  blanc /blɑ̃/ <adj>
+  1. white
+  2. pure
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  vieille /vjɛj/ <adj>
+  1. decayed, decrepit, dilapidated, lapsed, rickety
+  2. old
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  parler /paʀle/ <v>
+  speak, talk
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  cru /kʀy/ <adj>
+  crude, raw, rough
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  fond /fɔ̃/ <n, masc>
+  bottom, foundation, ground
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  calme /kalm/ <adj>
+  calm, quiet, tranquil
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  garde /gaʀd/ <n, masc>
+  1. guard
+  2. conservation, maintenance, preservation, retention
+  3. protection
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  oui /wi/
+  yes
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  comme /kɔmɑ̃/
+  1. as, like, such as
+  2. how
+  3. as if, as though, in a way
+  4. because, for the reason that
+  5. so, such, thus
+  6. for, since
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  propre /pʀɔpʀ/ <adj>
+  1. own, personal
+  2. clean, neat, tidy
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  tourner /tuʀne/ <v>
+  1. turn, turn around
+  2. switch, turn on
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  meilleur /mɛjœʀ/ <adj>
+  better
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  formidable /foʀmidabl/ <adj>
+  1. extraordinary, formidable
+  2. gigantic
+  3. enormous, immense
+  4. colossal, huge
+  5. horrible
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  bon /bɔ̃/
+  good, nice, okay
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  du /dy/
+  of the
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  tour /tuʀ/ <n, masc>
+  1. castle, tower
+  2. file, line, rank, row, turn
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  pardonner /paʀdɔne/ <v>
+  forgive, pardon
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  hier /je/ <adv>
+  yesterday
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  tomber /tɔ̃be/ <v>
+  drop, fall
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  comment /kɔmɑ̃/ <adv>
+  how, in what way
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  pire /piʀ/ <adj>
+  worse
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  femme /fam/ <n, fem>
+  woman, wife
+2 definitions found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  Dieu /djø/ <n>
+  God
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  dieu /djø/ <n, masc>
+  god
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  réfléchir /ʀefleʃiʀ/ <v>
+  1. think, think about, reflect on
+  2. reflect
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  me /mə/
+  1. me, to me
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  souffrir /sufʀiʀ/ <v>
+  abide, bear, endure, put up with, suffer
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  peur /pœʀ/ <n, fem>
+  1. fright
+  2. fear
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  la /la/ <art>
+  1. the
+  2. it
+  3. her
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  avant /avɑ̃/ <prep>
+  before, in front of
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  Paris /paʀi/ <n>
+  Paris
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  pourquoi /puʀkwɑ/ <adv>
+  why
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  voilà /vwala/ <prep>
+  behold, here is, here you are, look, there, there you are
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  couple /kupl/ <n, masc>
+  1. couple, married people
+  2. pair
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  coup /ku/ <n, masc>
+  1. blow
+  2. knock
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  taire /tɛʀ/ <vt>
+  keep oneself concealed, stay hidden
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  rien /ʀi/ <pron>
+  1. nothing
+  2. not an ace
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  la /la/ <art>
+  1. the
+  2. it
+  3. her
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  faire /fɛʀ/ <v>
+  1. achieve, act, do, make, perform
+  2. cause, get
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  moi /mwa/ <pron>
+  1. me, to me
+  2. I
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  dire /diʀ/ <v>
+  say, tell
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  souvent /suvɑ̃/ <adv>
+  frequently, often, regularly
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  tout /tu/
+  1. quite, very, very much
+  2. at all, entirely, wholly
+  3. all, every kind of
+  4. altogether, everything
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  espoir /ɛspwaʀ/ <n, masc>
+  hope
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  prochain /pʀoʃɛ̃/ <adj>
+  1. speedy
+  2. following, next
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  ronde /ʀɔ̃d/ <n, masc>
+  1. round
+  2. circle
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  pessimiste /pɛsimist/ <n>
+  pessimist
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  métier /metje/ <n, masc>
+  handicraft, occupation, trade
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  réveiller /ʀeveje/ <v>
+  arouse, wake, awaken, wake up
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  lune /lyn/ <n, fem>
+  moon
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  non /nɔ̃/
+  no
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  ciel /sjɛl/ <n, masc>
+  heaven, sky
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  pour /puʀ/ <prep>
+  for, to, in order to, per
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  quatorze /katɔʀz/ <num>
+  fourteen
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  égal /egal/ <adj>
+  equal, even, level
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  et /e/ <prep>
+  and
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  homme /ɔm/ <n, masc>
+  1. man, human being
+  2. fellow
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  danse /dɑ̃s/ <n, fem>
+  dance
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  moche /mɔʃ/ <adj>
+  ugly, ghastly, dreadful
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  façon /fasɔ̃/ <n, fem>
+  way, mode, fashion
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  toi /twa/
+  thee, you
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  trompe /tʀɔ̃p/ <n, masc>
+  proboscis, trunk
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  doux /du/ <adj>
+  mild, gentle, soft, sweet, tender
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  assez /ase/ <adv>
+  enough, quite, rather, sufficiently
+2 definitions found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  vers /vɛʀ/ <n, masc>
+  line (of verse)
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  vers /vɛʀ/ <prep>
+  at, to, toward, towards
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  d'où /du/
+  from where, whence
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  toi /twa/
+  thee, you
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  juger /ʒyʒe/ <v>
+  judge
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  problème /pʀoblɛm/ <n, masc>
+  problem, trouble
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  veille /vɛj/ <n, fem>
+  watch, wakefullness
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  est /ɛst/ <n, masc>
+  east, East
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  aventure /avɑ̃tyʀ/ <n, fem>
+  adventure
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  repas /ʀəpa/ <n, masc>
+  meal
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  offre /ɔfʀ/ <n, fem>
+  1. presentation
+  2. offer, tender
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  partout /paʀtu/ <adv>
+  all about, everywhere
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  effort /ɛfɔʀ/ <n, masc>
+  1. attempt, effort
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  biscuit /biskɥi/ <n, masc>
+  biscuit, cookie
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  vite /vit/ <adv>
+  fast, quickly, swiftly
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  voici /vwasi/ <prep>
+  behold, here is, here are, look, there
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  toile /twal/ <n, fem>
+  linen
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  soleil /sɔlɛj/ <n, masc>
+  sun
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  terre /tɛʀ/ <n, fem>
+  1. ground, soil
+  2. earth, land
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  ah /a/ <int>
+  1. oh, ow
+  2. ah, aha
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  tête /tɛt/ <n, fem>
+  head
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  amour /amuʀ/ <n, masc>
+  affection, love
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  merci /mɛʀsi/
+  thank you, thanks
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  île /il/ <n, fem>
+  island
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  sort /sɔʀ/ <n, masc>
+  1. destiny, fate, fortune, luck
+  2. kind, sort
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  joyeux /ʒwajø/ <adj>
+  1. cheerful, gay, merry
+  2. happy, glad
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  de /də/
+  1. from, of
+  2. out of
+  3. at, by, on, upon
+  4. because of, for, for sake of
+  5. on account of, owing to, through
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  roi /ʀwa/ <n, masc>
+  king
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  plein /plɛ̃/ <adj>
+  full
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  gris /gʀi/ <adj>
+  1. tipsy
+  2. grey
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  saveur /savœʀ/ <n, fem>
+  flavour
+2 definitions found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  Fortune /foʀtyn/ <n>
+  Fortune
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  fortune /foʀtyn/ <n, fem>
+  destiny, fate, fortune, luck
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  car /kaʀ/ <prep>
+  1. because, for the reason that
+  2. as, since
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  normal /nɔʀmal/ <adj>
+  normal
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  hein /ɛ̃/ <int>
+  isn't it, isn't that so, or not
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  royaume /ʀwajom/ <n, masc>
+  kingdom
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  gentil /ʒɑ̃ti/ <adj>
+  1. affable, friendly, good-natured, kind
+  2. gentle, soft, sweet, tender
+  3. obliging
+  4. charming, lovely
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  comprendre /kɔ̃pʀɑ̃dʀ/ <v>
+  understand, realize
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  avec /avɛk/ <prep>
+  with
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  proches /pʀɔʃ/ <n, masc>
+  relations, relatives
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  d'abord /dabɔʀ/
+  1. certainly, indeed, rather, surely
+  2. at first, at the outset, in the beginning
+  3. at once, instantly, immediately, without delay
+  4. just, right away, right now
+  5. first, firstly, first of all
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  mon /mɔ̃/
+  my
+2 definitions found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  noir /nwaʀ/ <adj>
+  black
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  Noir /nwaʀ/ <n>
+  Negro
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  que /kə/
+  1. that, who
+  2. than
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  tonnerre /tɔnɛʀ/ <n, masc>
+  thunder
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  poumon /pumɔ̃/ <n, masc>
+  lung
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  jeter /ʒəte/ <v>
+  1. spit
+  2. throw
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  alors /alɔʀ/ <adv>
+  1. then, at that time
+  2. while, whilst, whereas
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  besoin /bəzwɛ̃/ <n, masc>
+  need
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  connaître /kɔnɛtʀ/ <v>
+  be acquainted with, know
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  finalement /finaləmɑ̃/ <adv>
+  at last, finally, ultimately, at long last
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  pleurer /plœʀe/ <vi>
+  1. cry, weep
+  2. rain
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  oh /o/ <int>
+  oh
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  père /pɛʀ/ <n, masc>
+  father
+2 definitions found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  Flamand /flamɑ̃/ <n>
+  Flemming
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  flamand /flamɑ̃/ <adj>
+  Flemmish
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  doute /dut/ <n, masc>
+  doubt
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  les /le/ <art>
+  1. them
+  2. the
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  lui /lɥi/
+  1. the, to the
+  2. him, to him
+  3. it, to it
+  4. her, to her
+  5. he
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  très /tʀɛ/ <adv>
+  quite, very, very much
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  divorce /divɔʀs/ <n, masc>
+  divorce
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  manière /manjɛʀ/ <n, fem>
+  manner, mode, way
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  froid /fʀwa/ <adj>
+  frigid, bleak, chilly, cold
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  sous /su/ <prep>
+  below, beneath, under, underneath
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  donc /dɔ̃k/
+  so
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  mille /mil/ <num>
+  thousand, one thousand
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  votre /vɔtʀ/
+  your
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  an /ɑ̃/ <n, masc>
+  year
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  du /dy/
+  of the
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  dehors /dəɔʀ/ <adv>
+  abroad, outside
+2 definitions found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  devoir /dəvwaʀ/ <v>
+  1. have to, must, ought to, should
+  2. owe
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  devoir /dəvwaʀ/ <n, masc>
+  1. job, assigned job, task
+  2. duty
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  et /e/ <prep>
+  and
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  prime /pʀim/ <n, fem>
+  bonus, premium, allowance
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  choix /ʃwa/ <n, masc>
+  choice, election
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  fait /fɛ/ <adj>
+  1. mature, ripe
+  2. adult, full-grown
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  unique /ynik/ <adj>
+  unique
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  puis /pɥi/
+  afterwards, next, subsequently
+2 definitions found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  quotidien /kotidi/ <n, masc>
+  daily paper, journal, newspaper
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  quotidien /kotidi/ <adj>
+  daily, everyday
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  avec /avɛk/ <prep>
+  with
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  sûrement /syʀəmɑ̃/ <adv>
+  1. certainly
+  2. absolutely, definitely, without fail
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  juste /ʒyst/ <adj>
+  1. fair, just, righteous
+  2. correct, exact, proper, right
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  arrière /aʀjɛʀ/ <n, masc>
+  1. autumn
+  2. behind
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  ta /ta/
+  your
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  papa /papa/ <n, masc>
+  dad, daddy
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  quoi /kwa/ <pron>
+  what
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  fois /fwa/ <n, fem>
+  occasion, time
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  aucun /okœ̃/
+  none, nothing
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  jamais /ʒamɛ/ <adv>
+  never
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  singe /sɛ̃ʒ/ <n, masc>
+  ape, monkey
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  toujours /tuʒuʀ/ <adv>
+  always, ever
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  Paname /panam/ <n>
+  Paris
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  elles /ɛl/ <pron>
   they
+2 definitions found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  bien /bjɛ̃/ <adj>
+  1. okay, well
+  2. yes
+  3. quite, very, very much
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  bien /bjɛ̃/ <n, masc>
+  estate, farm, property, ranch
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  mais /mɛ/ <prep>
+  but
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  soir /swaʀ/ <n, masc>
+  evening
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  ensuite /ɑ̃sɥit/ <adv>
+  1. afterwards, next, subsequently
+  2. beyond, then, thereafter
+  3. accordingly, consequently, so, thus
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  crise /kʀiz/ <n, fem>
+  crisis, depression, emergency
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  quoi /kwa/ <pron>
+  what
+2 definitions found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  ensemble /ɑ̃sɑ̃bl/ <n, masc>
+  1. bevy, collection, group, heap, herd, set
+  2. ladies dress suit
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  ensemble /ɑ̃sɑ̃bl/ <adj>
+  together
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  non /nɔ̃/
+  no
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  dont /dɔ̃/
+  1. of which
+  2. whichone's, whose
+  3. that one's
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  confortable /kɔ̃fɔʀtabl/ <adj>
+  comfortable
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  bout /bu/ <n, masc>
+  1. end, ending
+  2. peak, point, tip, summit
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  pluie /plɥi/ <n, fem>
+  rain
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  merci /mɛʀsi/
+  thank you, thanks
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  différence /difeʀɑ̃s/ <n, fem>
+  difference
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  est /ɛst/ <n, masc>
+  east, East
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  chambre /ʃɑ̃bʀ/ <n, fem>
+  chamber, room
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  pardon /paʀdɔ̃/ <n, masc>
+  absolution, pardon
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  fureur /fyʀœʀ/ <n, fem>
+  fury, rage
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  rage /ʀaʒ/ <n, fem>
+  rabies
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  quoi /kwa/ <pron>
+  what
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  quarante /kaʀɑ̃t/ <num>
+  forty
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  ou /u/ <conj>
+  or
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  point /pwɛ̃/ <n, masc>
+  1. point
+  2. dot, period, spot
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  amant /amɑ̃/ <n, masc>
+  lover
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  gamin /gamɛ̃/ <n, masc>
+  naughty boy, pickle
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  voler /vɔle/ <v>
+  1. fly
+  2. steal
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  plage /plaʒ/ <n, fem>
+  beach
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  vacances /vakɑ̃se/ <n, masc>
+  holidays
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  aller /ale/ <v>
+  1. fare
+  2. go, ride, travel
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  armoire /aʀmwaʀ/ <n, fem>
+  cabinet, closet, cupboard, sideboard, wardrobe
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  gloire /glwaʀ/ <n, fem>
+  1. fame, glory, renown
+  2. merit
+  3. glamor, glamour, prestige
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  justement /ʒystəmɑ̃/ <adv>
+  1. exactly, sharp
+  2. just, just now
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  lit /li/ <n, masc>
+  bed
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  regarder /ʀəgaʀde/ <v>
+  1. look, watch, view
+  2. to be concerned with
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  Paris /paʀi/ <n>
+  Paris
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  feu /fø/ <n, masc>
+  fire
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  camion /kamjɔ̃/ <n, masc>
+  lorry, truck
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  croire /kʀwaʀ/ <v>
+  1. acknowledge, recognize
+  2. account, accredit, believe, deem
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  demoiselle /dəmwazɛl/ <n, fem>
+  Miss
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  ferme /fɛʀm/ <adj>
+  fast, firm, stable
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  trente /tʀɑ̃t/ <num>
+  thirty
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  hélas /ela/ <int>
+  alas
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  vous /vu/ <pron>
+  1. to you, you
+  2. ye
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  ma /ma/
+  my
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  travail /tʀavaj/ <n, masc>
+  work, employment
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  on /ɔ̃/ <pron>
+  you, one, they
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  chaise /ʃɛz/ <n, fem>
+  chair
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  après /apʀɛ/ <prep>
+  1. after, behind
+  2. afterwards, next, subsequently
+  3. beyond, then, thereafter
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  soit /swa/
+  1. agreed, okay
+  2. that is
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  jaloux /ʒalu/ <adj>
+  jealous
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  Paris /paʀi/ <n>
+  Paris
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  garçon /gaʀsɔ̃/ <n, masc>
+  1. bachelor
+  2. waiter
+  3. boy, lad, laddie
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  à /a/ <prep>
+  1. at, to, toward, towards
+  2. beside, by, near, nearby, near to, next to
+  3. a, in, inside, into, on, per, within
+  4. with
+  5. for, in order to
+  6. upon
+  7. until, till
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  tiers /tje/ <adj>
+  third
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  courant /kuʀɑ̃/ <n, masc>
+  current, flow, stream
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  calme /kalm/ <adj>
+  calm, quiet, tranquil
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  non /nɔ̃/
+  no
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  mère /mɛʀ/ <n, fem>
+  mother
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  entre /ɑ̃tʀ/ <prep>
+  among, between
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  rire /ʀiʀ/ <v>
+  laugh
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  oh /o/ <int>
+  oh
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  vie /vi/ <n, fem>
+  life
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  musique /myzik/ <n, fem>
+  music
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  plastique /plastik/ <adj>
+  plastic
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  écouter /ekute/ <v>
+  listen
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  tien /ti/ <pron>
+  your
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  terre /tɛʀ/ <n, fem>
+  1. ground, soil
+  2. earth, land
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  toujours /tuʒuʀ/ <adv>
+  always, ever
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  déjà /deʒa/ <adv>
+  already, by now, yet
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  enfants /ɑ̃fɑ̃/ <n>
+  sons and daughters
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  moitié /mwatje/ <n, fem>
+  half
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  joyeux /ʒwajø/ <adj>
+  1. cheerful, gay, merry
+  2. happy, glad
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  près /pʀɛ/ <adj>
+  1. nearby
+  2. close, near
+2 definitions found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  Dieu /djø/ <n>
+  God
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  dieu /djø/ <n, masc>
+  god
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  coin /kwɛ̃/ <n, masc>
+  1. corner
+  2. wedge
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  bâtard /bataʀ/ <n, masc>
+  bastard
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  où /u/ <adv>
+  where, where ... to, whither
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  fois /fwa/ <n, fem>
+  occasion, time
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  ou /u/ <conj>
+  or
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  manger /mɑ̃ʒe/ <v>
+  eat
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  bouche /buʃ/ <n, fem>
+  mouth
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  nid /ni/ <n, masc>
+  den, nest
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  cinq /sɛ̃k/ <num>
+  five
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  ombre /ɔ̃bʀ/ <n, fem>
+  1. shadow
+  2. shade
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  héros /eʀo/ <n, masc>
+  hero
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  naturel /natyʀɛl/ <adj>
+  1. congenital, inborn, inbred, innate, native
+  2. natural
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  table /tabl/ <n, fem>
+  table
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  douleur /dulœʀ/ <n, fem>
+  ache, pain
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  dessin /dɛsɛ̃/ <n, masc>
+  design, drawing
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  tendre /tɑ̃dʀ/ <v>
+  1. dainty, delicate, fine, refined
+  2. affectionate, caressing, cuddlesome, cuddly
+  3. soft
+  4. strech, wind up
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  autant /otɑ̃/
+  1. such, such a, that kind of
+  2. that much
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  dire /diʀ/ <v>
+  say, tell
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  étude /etyd/ <n, fem>
+  study
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  de /də/
+  1. from, of
+  2. out of
+  3. at, by, on, upon
+  4. because of, for, for sake of
+  5. on account of, owing to, through
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  souvent /suvɑ̃/ <adv>
+  frequently, often, regularly
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  vrai /vʀɛ/ <adj>
+  1. right, true
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  prochain /pʀoʃɛ̃/ <adj>
+  1. speedy
+  2. following, next
+2 definitions found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  vers /vɛʀ/ <n, masc>
+  line (of verse)
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  vers /vɛʀ/ <prep>
+  at, to, toward, towards
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  passé /pase/ <n, masc>
+  1. last
+  2. past
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  suite /sɥit/ <n, fem>
+  1. suite, train
+  2. continuation
+  3. consequence, consistency
+  4. result
+  5. adherents, disciples, followers, following, party, supporters
+  6. order
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  singe /sɛ̃ʒ/ <n, masc>
+  ape, monkey
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  cœur /kˈœʁ/ <n, masc>
+  heart
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  poêle /pwal/ <n, masc>
+  frying-pan, frying pan
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  nuit /nɥi/ <n, fem>
+  night
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  vouloir /vulwaʀ/ <v>
+  be willing to, want, wish
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  parents /paʀ/ <n, masc>
+  parents
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  bizarre /bizaʀ/ <adj>
+  bizarre, odd, weird
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  facile /fasil/ <adj>
+  easy, simple
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  vrai /vʀɛ/ <adj>
+  1. right, true
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  odeur /odœʀ/ <n, fem>
+  odor, odour, scent, smell
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  trois /tʀwa/ <num>
+  three
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  cent /sɑ̃/ <num>
+  hundred, one hundred
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  loi /lwa/ <n, fem>
+  law
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  arrivée /aʀive/ <n, fem>
+  arrival
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  fumer /fyme/ <v>
+  1. smoke
+  2. fertilize
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  élever /ɛlve/ <vt>
+  1. breed, keep, raise, rear
+  2. lever, lift
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  ticket /tikɛ/ <n, masc>
+  1. bill, ticket, note
+  2. coupon
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  mieux /mjø/ <adj>
+  preferably, rather
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  au /o/
+  at the, to the
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  d'ailleurs /dajœʀ/
+  1. as for the rest, besides, for the rest, moreover, what's more
+  2. in addition
+  3. and also, and ... as well, as well as, together with
+  4. furthermore
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  triste /tʀist/ <adj>
+  1. sad
+  2. dismal, dreary
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  oh /o/ <int>
+  oh
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  loin /lwɛ̃/ <adj>
+  1. away
+  2. distant, far, remote
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  parfois /paʀfwa/ <adv>
+  several times, sometimes
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  moi /mwa/ <pron>
+  1. me, to me
+  2. I
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  travailler /tʀavaje/ <v>
+  work
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  sécurité /sekyʀite/ <n, fem>
+  safety, security
 1 definition found
 
 From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
@@ -24,57 +2461,1164 @@ From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
 
 From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
 
-  jour /ʒuʀ/ <n, masc>
-  day
+  foule /ful/ <n, fem>
+  1. crush
+  2. accumulation, crowd, heap, mass, multitude, pile
 1 definition found
 
 From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
 
-  mugir /myʒiʀ/ <v>
-  howl, roar
+  dignité /dinjite/ <n, fem>
+  dignity
 1 definition found
 
 From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
 
-  pitié /pitje/ <n, fem>
-  compassion, pity
+  cage /kaʒ/ <n, fem>
+  cage
 1 definition found
 
 From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
 
-  sacré /sakʀe/ <adj>
-  holy, sacred
+  rien /ʀi/ <pron>
+  1. nothing
+  2. not an ace
 1 definition found
 
 From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
 
-  et /e/ <prep>
-  and
+  style /stil/ <n, masc>
+  style
 1 definition found
 
 From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
 
-  liberté /libɛʀte/ <n, fem>
-  freedom
+  célibataire /selibatɛʀ/ <n, masc>
+  1. single, unmarried
+  2. unmarried woman, spinster
+  3. bachelor
 1 definition found
 
 From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
 
-  liberté /libɛʀte/ <n, fem>
-  freedom
+  cri /kʀi/ <n, masc>
+  cry, shout
 1 definition found
 
 From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
 
-  que /kə/
-  1. that, who
-  2. than
+  cinquante /sɛ̃kɑ̃t/ <num>
+  fifty
+2 definitions found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  pas /pa/ <n, masc>
+  pace, step, stride
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  pas /pa/ <adv>
+  not
 1 definition found
 
 From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
 
-  sein /sɛ̃/ <n, masc>
-  bosom, breast, chest
+  amour /amuʀ/ <n, masc>
+  affection, love
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  chaud /ʃo/ <adj>
+  warm
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  quelle /kɛl/
+  who
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  mon /mɔ̃/
+  my
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  seul /sœl/ <adj>
+  alone, only, sole, solitary
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  air /ɛʀ/ <n, masc>
+  air, appearance, aspect, look, sight, view, expression
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  oiseau /wazo/ <n, masc>
+  bird
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  grave /gʀav/ <adj>
+  important, serious
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  sans /sɑ̃/ <prep>
+  without
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  seul /sœl/ <adj>
+  alone, only, sole, solitary
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  des /de/
+  of the
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  tard /taʀ/ <adv>
+  late
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  partie /paʀti/ <n, fem>
+  1. part, Parthian, share
+  2. piece
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  hein /ɛ̃/ <int>
+  isn't it, isn't that so, or not
+2 definitions found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  autour /otuʀ/ <n, masc>
+  goshawk
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  autour /otuʀ/ <prep>
+  roundabout, thereabout, thereabouts
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  cent /sɑ̃/ <num>
+  hundred, one hundred
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  rose /ʀoz/ <n, masc>
+  1. pink
+  2. rose
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  deux /dø/ <num>
+  two
+2 definitions found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  frais /fʀɛ/ <adj>
+  fresh, recent
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  frais /fʀɛ/ <n, masc>
+  fee
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  barbu /baʀby/ <adj>
+  bearded
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  revoir /ʀəvwaʀ/ <v>
+  1. see again
+  2. revise
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  mademoiselle /madəmwazɛl/ <n, fem>
+  Miss
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  profession /pʀofɛsjɔ̃/ <n, fem>
+  profession
+2 definitions found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  Aryen /aʀj/ <n>
+  Aryan
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  aryen /aʀj/ <adj>
+  Aryan
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  deux /dø/ <num>
+  two
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  difficile /difisil/ <adj>
+  difficult, hard, inconvenient
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  dedans /dədɑ̃/ <adv>
+  inside
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  as /a/ <n, masc>
+  ace
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  garder /gaʀde/ <v>
+  guard, keep, look after, watch over
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  sable /sabl/ <n, masc>
+  sand
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  il /il/ <pron>
+  1. he, him
+  2. it
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  cruel /kʀyɛl/ <adj>
+  cruel
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  n'importe /nɛ̃pɔʀt/
+  at all, -ever
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  émotion /emosjɔ̃/ <n, fem>
+  emotion
+2 definitions found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  marié /maʀje/ <adj>
+  married
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  marié /maʀje/ <n, masc>
+  groom, bridegroom
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  entier /ɑ̃tje/ <adj>
+  1. complete, full
+  2. entire, overall, whole
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  bande /bɑ̃d/ <n, fem>
+  1. bevy, collection, group, heap, herd, set
+  2. band, gang
+  3. binding, tape
+  4. ray, strip, stripe
+2 definitions found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  personne /pɛʀsɔn/ <pron>
+  neither, nobody, none, no-one
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  personne /pɛʀsɔn/ <n, fem>
+  person
+2 definitions found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  bien /bjɛ̃/ <adj>
+  1. okay, well
+  2. yes
+  3. quite, very, very much
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  bien /bjɛ̃/ <n, masc>
+  estate, farm, property, ranch
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  mine /min/ <n, fem>
+  expression
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  ligne /linj/ <n, fem>
+  line
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  bavarder /bavaʀde/ <v>
+  chat, chatter
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  un /œ̃/ <art>
+  1. a, any, anybody, some, somebody, one, some one
+  2. an
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  vingt /vɛ̃/ <num>
+  twenty
+2 definitions found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  derrière /dɛʀjɛʀ/ <n, masc>
+  1. backside, rump
+  2. behind, bottom, buttocks
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  derrière /dɛʀjɛʀ/ <prep>
+  behind, after
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  peuple /pœpl/ <n, masc>
+  folk, nation, people
+2 definitions found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  droit /dʀwa/
+  1. right, righthand
+  2. jurisprudence, law
+  3. faithful, loyal
+  4. right-angle, square
+  5. direct, straight
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  droit /dʀwa/ <n, masc>
+  1. jurisprudence, law
+  2. right-angle, square
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  santé /sɑ̃te/ <n, fem>
+  health
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  fier /fje/ <v>
+  proud
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  changer /ʃɑ̃ʒe/ <v>
+  change, turn
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  je /ʒə/ <pron>
+  I
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  lilas /lila/ <n, masc>
+  lilac
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  sûr /syʀ/ <adj>
+  1. certain, sure
+  2. reliable, trustworthy
+  3. safe, secure
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  putain /pytɛ̃/ <n, fem>
+  hooker, prostitute, whore
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  petit /pəti/ <adj>
+  diminutive, little, small
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  soir /swaʀ/ <n, masc>
+  evening
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  dans /dɑ̃/ <prep>
+  a, in, inside, into, on, per, within
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  gauche /goʃ/ <adj>
+  left
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  chance /ʃɑ̃s/ <n, fem>
+  chance, luck
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  plutôt /plyto/ <adv>
+  1. preferably
+  2. enough, quite, rather, sufficiently
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  tant /tɑ̃/ <adv>
+  so much, lots, that much
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  auquel /okɛl/
+  whom
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  moins /mwɛ̃/ <adv>
+  minus
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  aussi /osi/
+  1. also, likewise, too
+  2. on that account, therefore
+  3. as, so, that
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  rose /ʀoz/ <n, masc>
+  1. pink
+  2. rose
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  heureux /œʀø/ <adj>
+  fortunate, happy
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  peine /pɛn/ <n, fem>
+  1. ache, pain
+  2. attempt, effort
+  3. punishment
+  4. annoyance, disappointment, grief
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  matin /matɛ̃/ <n, fem>
+  morning
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  idiot /idjo/ <n, masc>
+  1. idiot
+  2. addled, foolish, stupid
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  chanter /ʃɑ̃te/ <v>
+  sing
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  habit /abi/ <n, fem>
+  1. dress-coat, evening dress, tails
+  2. article of dress, garment
+2 definitions found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  imbécile /ɛ̃besil/ <n, masc>
+  fool, idiot
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  imbécile /ɛ̃besil/ <adj>
+  foolish, silly, dumb
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  fils /fis/ <n, masc>
+  son
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  oh /o/ <int>
+  oh
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  fait /fɛ/ <adj>
+  1. mature, ripe
+  2. adult, full-grown
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  trou /tʀu/ <n, masc>
+  hole
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  ailleurs /ajœʀ/ <adv>
+  elsewhere
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  verre /vɛʀ/ <n, masc>
+  glass
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  sexuel /sɛksɥɛl/ <adj>
+  sexual
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  plus /ply/ <adv>
+  1. more
+  2. else, further, on
+  3. plus
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  finir /finiʀ/ <v>
+  1. accommodate, end, finish, terminate
+  2. come to an end, end up, expire
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  enfin /ɑ̃fɛ̃/ <adv>
+  1. at last, finally, ultimately
+  2. at long last
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  autrement /otʀəmɑ̃/ <adv>
+  differently
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  joie /ʒwa/ <n, fem>
+  gladness, joy
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  prénom /pʀenɔ̃/ <n, masc>
+  1. first name
+  2. Christian name
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  encore /ɑ̃kɔʀ/ <adv>
+  1. more, still, yet
+  2. afresh, again, once more, all over again, anew
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  drôle /dʀol/ <adj>
+  1. amusing, entertaining, funny, comic, comical
+  2. odd, peculiar, strange
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  boulanger /bulɑ̃ʒe/ <n, masc>
+  baker
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  baisser /bɛse/ <v>
+  1. lower
+  2. descend, go down
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  ville /vil/ <n, fem>
+  city, town
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  chanson /ʃɑ̃sɔ̃/ <n, fem>
+  song
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  lorsque /loʀsk/
+  when
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  Albert /albɛʀ/ <n>
+  Albert
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  trop /tʀo/ <adv>
+  too, too much
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  ami /ami/ <n, masc>
+  1. friend
+  2. fellow-thinker
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  bon /bɔ̃/
+  good, nice, okay
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  mais /mɛ/ <prep>
+  but
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  devant /dəvɑ̃/
+  1. before, in front of
+  2. ahead, formerly, previously
+  3. in the presence of
+2 definitions found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  amoureux /amuʀø/ <adj>
+  affectionate, loving
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  amoureux /amuʀø/ <n, masc>
+  lover
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  nombril /nɔ̃bʀi/ <n, masc>
+  navel
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  heureusement /øʀøzmɑ̃/ <adv>
+  fortunately
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  sept /sɛt/ <num>
+  seven
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  elle /ɛl/ <pron>
+  1. it
+  2. her, she
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  parti /paʀti/ <n, fem>
+  1. decision-making
+  2. faction, party, side
+  3. adherents, disciples, followers, following
+  4. supporters
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  visage /vizaʒ/ <n, masc>
+  face
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  pourtant /puʀtɑ̃/ <adv>
+  but, however, nevertheless, yet
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  innocent /inosɑ̃/ <adj>
+  guiltless, innocent
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  lever /ləve/ <v>
+  lever, lift, raise
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  temps /tɑ̃/ <n, masc>
+  1. time, while
+  2. weather
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  moment /mɔmɑ̃/ <n, masc>
+  instant, moment
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  fleuve /flœv/ <n, masc>
+  river
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  parfait /paʀfɛ/ <adj>
+  perfect
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  fête /fɛt/ <n, fem>
+  celebration, festival, party
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  passer /pase/ <v>
+  1. give
+  2. pass, pass by
+  3. spend
+  4. overtake
+  5. cross, go beyond, transfer
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  peut-être /pˈøtˈɛtʁ/ <adv>
+  maybe, mayhap, perchance, perhaps, possibly
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  mode /mɔd/ <n, fem>
+  fashion, mode
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  monde /mɔ̃d/ <n, masc>
+  world
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  bête /bɛt/ <n, fem>
+  animal, beast
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  teindre /tɛ̃dʀ/ <v>
+  dye, tint
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  fait /fɛ/ <adj>
+  1. mature, ripe
+  2. adult, full-grown
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  voilà /vwala/ <prep>
+  behold, here is, here you are, look, there, there you are
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  vide /vid/ <adj>
+  1. empty, void
+  2. miserable, needy
+  3. vacant
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  seulement /sœləmɑ̃/ <adv>
+  exclusively, just, only
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  demain /dəmɛ̃/ <adv>
+  tomorrow
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  santé /sɑ̃te/ <n, fem>
+  health
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  papa /papa/ <n, masc>
+  dad, daddy
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  vrai /vʀɛ/ <adj>
+  1. right, true
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  son /sɔ̃/
+  1. his
+  2. sound
+  3. its
+  4. her
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  creux /kʀø/ <n, masc>
+  cave, cavity
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  dès /dɛ/
+  from, since
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  pour /puʀ/ <prep>
+  for, to, in order to, per
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  tous /tu/
+  both
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  fille /fij/ <n, fem>
+  1. daughter
+  2. girl, lass, wench
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  appris /apʀi/ <adj>
+  acquired, learnt
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  ce /sə/ <n, masc>
+  that, that over there, those
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  beaucoup /boku/
+  1. a lot of, much
+  2. frequently, often, regularly
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  doigt /dwa/ <n, masc>
+  finger
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  rouge /ʀuʒ/ <adj>
+  red
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  côté /kote/ <n, masc>
+  side
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  maintenant /mɛ̃tənɑ̃/ <adv>
+  at present, now
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  orage /oʀaʒ/ <n, fem>
+  storm
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  couche /kuʃ/ <n, fem>
+  layer
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  porte /pɔʀt/ <n, fem>
+  door
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  anneau /ano/ <n, masc>
+  ring
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  tout /tu/
+  1. quite, very, very much
+  2. at all, entirely, wholly
+  3. all, every kind of
+  4. altogether, everything
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  courtois /kuʀtwa/ <adj>
+  courteous, polite, well-mannered
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  mais /mɛ/ <prep>
+  but
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  finir /finiʀ/ <v>
+  1. accommodate, end, finish, terminate
+  2. come to an end, end up, expire
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  frotter /fʀɔte/ <v>
+  rub
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  par /paʀ/ <prep>
+  1. by, by means of, on, through, with
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  vite /vit/ <adv>
+  fast, quickly, swiftly
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  évident /evidɑ̃/ <adj>
+  evident, obvious
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  être /ɛtʀ/ <v>
+  be
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  rue /ʀy/ <n, fem>
+  street
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  naissance /nɛsɑ̃s/ <n, fem>
+  birth
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  huit /ɥi/ <num>
+  eight
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  hasard /azaʀ/ <n, masc>
+  accidence, chance, hazard
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  connu /kony/ <adj>
+  well-known
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  guerre /gɛʀ/ <n, fem>
+  war
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  toujours /tuʒuʀ/ <adv>
+  always, ever
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  fort /fɔʀ/ <adj>
+  1. strong
+  2. loud
+  3. loudly
+  4. quite, very, very much
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  asseoir /aswaʀ/ <v>
+  sit down
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  soudain /sudɛ̃/ <adj>
+  abrupt, sudden
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  surtout /syʀtu/ <adv>
+  1. above all, especially, chiefly, mainly, principally
+  2. particularly, specially
 1 definition found
 
 From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
@@ -86,20 +3630,347 @@ From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
 
 From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
 
-  amour /amuʀ/ <n, masc>
-  affection, love
+  vue /vy/ <n, fem>
+  1. exterior
+  2. look
+  3. sight, view
 1 definition found
 
 From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
 
-  mais /mɛ/ <prep>
-  but
+  important /ɛ̃pɔʀtɑ̃/ <adj>
+  important, serious
 1 definition found
 
 From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
 
-  regret /ʀəgʀɛ/ <n, masc>
-  regret
+  cul /ky/ <n, masc>
+  behind, bottom, buttocks
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  évidemment /evidamɑ̃/ <adv>
+  apparently, obviously
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  dur /dyʀ/ <adj>
+  difficult, hard, inconvenient
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  cancer /kɑ̃se/ <n, masc>
+  cancer, canker
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  rabais /ʀabɛ/ <n, masc>
+  abatement, discount, rebate
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  me /mə/
+  1. me, to me
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  soudain /sudɛ̃/ <adj>
+  abrupt, sudden
+2 definitions found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  haut /o/ <adj>
+  high, lofty, tall
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  haut /o/ <n, masc>
+  1. summit, surface, top
+  2. upper garment
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  sa /sa/
+  1. his
+  2. its
+  3. her
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  poli /pɔli/ <adj>
+  1. courteous, polite, well-mannered
+  2. smooth, polished
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  montre /mɔ̃tʀ/ <n, fem>
+  watch, wrist-watch
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  fille /fij/ <n, fem>
+  1. daughter
+  2. girl, lass, wench
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  avoir /avwaʀ/ <v>
+  1. have, have got
+  2. wear
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  secret /səkʀɛ/ <n, masc>
+  secret
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  aller /ale/ <v>
+  1. fare
+  2. go, ride, travel
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  dune /dyn/ <n, fem>
+  dune
+2 definitions found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  somme /sɔm/ <n, masc>
+  nap, snooze
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  somme /sɔm/ <n, fem>
+  amount, sum
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  erreur /ɛʀœʀ/ <n, fem>
+  aberration, error, mistake
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  rendez-vous /ʁɑ̃dˈevˈu/ <n, masc>
+  appointment, date, rendezvous
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  cancer /kɑ̃se/ <n, masc>
+  cancer, canker
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  enfant /ɑ̃fɑ̃/ <n, masc>
+  1. bairn, child, infant
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  aux /o/
+  the, to the
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  dehors /dəɔʀ/ <adv>
+  abroad, outside
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  moi /mwa/ <pron>
+  1. me, to me
+  2. I
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  que /kə/
+  1. that, who
+  2. than
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  sentiment /sɑ̃timɑ̃/ <n, masc>
+  1. sentiment
+  2. feel, feeling, sensation
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  chacun /ʃakœ̃/ <pron>
+  everybody, every one
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  sein /sɛ̃/ <n, masc>
+  bosom, breast, chest
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  la /la/ <art>
+  1. the
+  2. it
+  3. her
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  sourire /suʀiʀ/ <v>
+  smile
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  mère /mɛʀ/ <n, fem>
+  mother
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  reste /ʀɛst/ <n, masc>
+  1. remainder
+  2. rest
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  bébé /bebe/ <n, masc>
+  baby
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  mal /mal/ <n, masc>
+  1. ache, pain
+  2. pity
+  3. bad, miserable, nasty, poor
+  4. badly
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  wallon /walɔ̃/ <adj>
+  Walloon
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  prix /pʀi/ <n, masc>
+  1. premium, prize
+  2. price
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  autre /otʀ/ <adj>
+  1. other, another, else
+  2. additional, remaining, rest of
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  maman /mamɑ̃/ <n, fem>
+  mam, mammy, mom, mommy
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  vie /vi/ <n, fem>
+  life
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  dormir /dɔʀmiʀ/ <v>
+  be asleep, sleep
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  après /apʀɛ/ <prep>
+  1. after, behind
+  2. afterwards, next, subsequently
+  3. beyond, then, thereafter
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  parmi /paʀmi/ <prep>
+  1. a, in, inside, into, on, per, within
+  2. between
+  3. among, amidst, in the middle of
+  4. at, beside, with
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  ma /ma/
+  my
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  place /plas/ <n, fem>
+  1. location, place, spot
+  2. plaza, square, public square
+  3. post
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  hanche /ɑ̃ʃ/ <n, fem>
+  hip
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  sacré /sakʀe/ <adj>
+  holy, sacred
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  qu' /k/
+  that, who
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  routine /ʀutin/ <n, fem>
+  routine
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  aussi /osi/
+  1. also, likewise, too
+  2. on that account, therefore
+  3. as, so, that
 2 definitions found
 
 From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
@@ -119,21 +3990,128 @@ From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
 
 From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
 
+  guider /gide/ <v>
+  conduct, direct, guide, head, lead
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  battre /batʀ/ <v>
+  1. beat, hit, strike
+  2. thresh
+  3. curl, froth, stir, whip, whirl
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  dette /dɛt/ <n, fem>
+  debt
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  problème /pʀoblɛm/ <n, masc>
+  problem, trouble
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
   sans /sɑ̃/ <prep>
   without
 1 definition found
 
 From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
 
-  sous /su/ <prep>
-  below, beneath, under, underneath
+  hôte /ot/ <n, masc>
+  1. host
+  2. guest
 1 definition found
 
 From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
 
-  ton /tɔ̃/
-  1. tone
-  2. your
+  sur /syʀ/ <prep>
+  1. above, on top, overhead, upstairs
+  2. on, upon
+  3. at, beside, with
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  gens /ʒɑ̃/ <n, masc>
+  people
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  mois /mwa/ <n, masc>
+  month
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  attirant /atiʀɑ̃/ <adj>
+  attractive
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  ensuite /ɑ̃sɥit/ <adv>
+  1. afterwards, next, subsequently
+  2. beyond, then, thereafter
+  3. accordingly, consequently, so, thus
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  amour /amuʀ/ <n, masc>
+  affection, love
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  je /ʒə/ <pron>
+  I
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  aujourd'hui /oʒuʀdɥi/ <adv>
+  today
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  gronder /gʀɔ̃de/ <v>
+  1. admonish, scold
+  2. menace, threaten
+  3. howl, roar
+  4. blame, rebuke, reproach, reprove
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  faire /fɛʀ/ <v>
+  1. achieve, act, do, make, perform
+  2. cause, get
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  chauffeur /ʃofœʀ/ <n, masc>
+  chauffeur, driver
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  juste /ʒyst/ <adj>
+  1. fair, just, righteous
+  2. correct, exact, proper, right
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  avant /avɑ̃/ <prep>
+  before, in front of
 1 definition found
 
 From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
@@ -145,142 +4123,439 @@ From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
 
 From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
 
-  aux /o/
-  the, to the
+  ventre /vɑ̃tʀ/ <n, masc>
+  abdomen, belly, tummy
 1 definition found
 
 From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
 
-  est /ɛst/ <n, masc>
-  east, East
+  voix /vwa/ <n, fem>
+  voice
 1 definition found
 
 From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
 
-  nous /nu/ <pron>
-  1. us, to us
-  2. we
+  barre /baʀ/ <n, fem>
+  pole, rod
 1 definition found
 
 From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
 
-  nous /nu/ <pron>
-  1. us, to us
-  2. we
+  heureux /œʀø/ <adj>
+  fortunate, happy
 1 definition found
 
 From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
 
-  avec /avɛk/ <prep>
-  with
+  quelqu'un /kɛlky/
+  a, any, anybody, some, somebody, one, some one
 1 definition found
 
 From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
 
-  de /də/
-  1. from, of
-  2. out of
-  3. at, by, on, upon
-  4. because of, for, for sake of
-  5. on account of, owing to, through
+  tu /ty/ <pron>
+  thou, you
 1 definition found
 
 From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
 
-  ou /u/ <conj>
-  or
+  rôle /ʀol/ <n, masc>
+  part, role
 1 definition found
 
 From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
 
-  triomphe /tʀiɔ̃f/ <n, masc>
-  triumph
+  choses /ʃoz/ <n>
+  stuff, things
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  musique /myzik/ <n, fem>
+  music
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  toujours /tuʒuʀ/ <adv>
+  always, ever
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  ah /a/ <int>
+  1. oh, ow
+  2. ah, aha
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  oui /wi/
+  yes
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  pont /pɔ̃/ <n, masc>
+  1. deck
+  2. bridge
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  froid /fʀwa/ <adj>
+  frigid, bleak, chilly, cold
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  puis /pɥi/
+  afterwards, next, subsequently
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  trouver /tʀuve/ <v>
+  find
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  sourd /suʀ/ <adj>
+  deaf
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  reprendre /ʀəpʀɑ̃dʀ/ <v>
+  1. censure, criticize
+  2. repay
+  3. blame, rebuke, reproach, reprove, scold
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  fauteuil /fotœj/ <n, masc>
+  armchair
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  infirmière /ɛ̃fiʀmjɛʀ/ <n, fem>
+  nurse
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  soie /swa/ <n, fem>
+  silk
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  frotter /fʀɔte/ <v>
+  rub
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  parole /paʀɔl/ <n, masc>
+  speech
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  chaîne /ʃɛn/ <n, fem>
+  1. fetter, shackle
+  2. chain
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  puisque /pɥisk/ <conj>
+  1. because, for the reason that
+  2. as, for, since
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  nouveau /nuvo/ <adj>
+  new, novel
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  formidable /foʀmidabl/ <adj>
+  1. extraordinary, formidable
+  2. gigantic
+  3. enormous, immense
+  4. colossal, huge
+  5. horrible
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  beau /bo/ <adj>
+  beautiful, fine, handsome, lovely
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  oublier /ublje/ <v>
+  forget
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  héros /eʀo/ <n, masc>
+  hero
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  manque /mɑ̃k/ <n, masc>
+  absence, lack, shortage, shortcoming
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  réveil /ʀevɛj/ <n, masc>
+  alarm, alarmclock
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  part /paʀ/ <n, fem>
+  1. part, Parthian, share
+  2. piece
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  jour /ʒuʀ/ <n, masc>
+  day
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  méchant /meʃɑ̃/ <adj>
+  1. cruel
+  2. bad, miserable, nasty, poor
+  3. malicious, mischievous, vicious
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  consommation /kɔ̃sɔmasjɔ̃/ <n, fem>
+  beverage, drink
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  moi /mwa/ <pron>
+  1. me, to me
+  2. I
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  tu /ty/ <pron>
+  thou, you
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  si /si/
+  1. accordingly, so, then, therefore
+  2. certainly, indeed, rather, surely
+  3. yes
+  4. provided that
+  5. as, that
+  6. if, either, whether
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  madame /madam/ <n, fem>
+  1. lady
+  2. madam, Mrs.
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  crédit /kʀedi/ <n, masc>
+  credit
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  lessive /lɛsiv/ <n, fem>
+  lye
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  mort /mɔʀ/ <n, masc>
+  death
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  journée /ʒuʀne/ <n, fem>
+  day
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  fier /fje/ <v>
+  proud
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  pourquoi /puʀkwɑ/ <adv>
+  why
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  longtemps /lɔ̃tɑ̃/ <adv>
+  a long time, for a long time, long
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  port /pɔʀ/ <n, masc>
+  1. postage
+  2. harbor, harbour, port
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  mes /me/
+  my
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  ton /tɔ̃/
+  1. tone
+  2. your
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  dame /dam/ <n, fem>
+  1. queen
+  2. lady
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  maman /mamɑ̃/ <n, fem>
+  mam, mammy, mom, mommy
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  cause /koz/ <n, fem>
+  cause, reason
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  leur /lœʀ/
+  1. them, to them
+  2. their
+  3. her, his, its
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  juillet /ʒɥijɛ/ <n, masc>
+  July
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  zéro /zeʀo/ <n, masc>
+  naught, nought, null, zero, zilch
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  facile /fasil/ <adj>
+  easy, simple
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  malheureux /malœʀø/ <adj>
+  1. dismal, miserable, pitiful, poor
+  2. unhappy
+1 definition found
+
+From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
+
+  ils /il/ <pron>
+  they
 2 definitions found
 
 From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
 
-  Français /fʀɑ̃sɛ/ <n>
-  Frenchman
+  une /yn/ <num>
+  one
 
 From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
 
-  français /fʀɑ̃sɛ/ <adj>
-  French, French language
+  une /yn/ <art>
+  a, an
 1 definition found
 
 From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
 
-  bras /bʀa/ <n, masc>
-  arm
+  navire /naviʀ/ <n, masc>
+  ship, vessel
 1 definition found
 
 From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
 
-  fils /fis/ <n, masc>
-  son
+  que /kə/
+  1. that, who
+  2. than
 1 definition found
 
 From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
 
-  gloire /glwaʀ/ <n, fem>
-  1. fame, glory, renown
-  2. merit
-  3. glamor, glamour, prestige
+  quelles /kɛl/
+  1. who
+  2. which
 1 definition found
 
 From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
 
-  enfants /ɑ̃fɑ̃/ <n>
-  sons and daughters
+  pauvre /povʀ/ <adj>
+  1. pitiful, poor
+  2. abject, dismal, meager, miserable, wretched
 1 definition found
 
 From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
 
-  dans /dɑ̃/ <prep>
-  a, in, inside, into, on, per, within
+  joie /ʒwa/ <n, fem>
+  gladness, joy
 1 definition found
 
 From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
 
-  tous /tu/
-  both
+  aussi /osi/
+  1. also, likewise, too
+  2. on that account, therefore
+  3. as, so, that
 1 definition found
 
 From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
 
-  mère /mɛʀ/ <n, fem>
-  mother
-1 definition found
+  nous /nu/ <pron>
+  1. us, to us
+  2. we
 
-From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
-
-  les /le/ <art>
-  1. them
-  2. the
-1 definition found
-
-From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
-
-  à /a/ <prep>
-  1. at, to, toward, towards
-  2. beside, by, near, nearby, near to, next to
-  3. a, in, inside, into, on, per, within
-  4. with
-  5. for, in order to
-  6. upon
-  7. until, till
-1 definition found
-
-From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
-
-  sang /sɑ̃/ <n, masc>
-  blood
-1 definition found
-
-From French-English FreeDict Dictionary ver. 0.4.1 [fd-fra-eng]:
-
-  la /la/ <art>
-  1. the
-  2. it
-  3. her
-['leur', 'ils', 'victimes', 'déchirent', 'retenez', 'arrivé', 'le', 'entendez-vous', 'complices', 'jour', 'mugir', 'pitié', 'sacré', 'et', 'conduis,', 'jusque', 'campagnes', 'liberté,', 'armes,', 'féroces', 'formez', 'liberté', 'que', 'sein', 'contre', 'amour', 'viennent', 'levé', 'mais', 'ennemis', 'abreuve', 'notre', 'regret', "qu'un", 'en', 'sans', 'magnanimes', 'voient', 'patrie', 'expirants', 'impur', 'guerriers', 'sous', 'tes', 'ton', 'qui,', 'citoyens', "l'étendard", 'égorger', 'aux', 'est', "s'armant", 'marchons', 'nous,', 'sanguinaires', 'tristes', 'chérie', 'nous', 'bouillé', 'portez', 'avec', 'de', 'ou', 'tigres', 'tyrannie', 'triomphe', 'mâles', 'épargnez', 'soutiens', 'allons,', 'français,', 'ces', 'accents', 'bras', 'sanglant', 'nos', 'fils,', 'gloire', 'enfants', 'marchons,', 'vos', 'dans', 'tous', 'mère', 'défenseurs', 'soldats?', 'les', 'bataillons', 'drapeaux,', 'coups', 'vengeurs', 'à', 'combats', 'despotes', 'victoire', 'accoure', 'compagnes', 'sillons', 'sang', 'la']
