@@ -17,5 +17,5 @@ This Software works this way:
 
 	python3 generate_anki_deck.py -i definitions_output.txt -o [anki_deck_name.tsv]
 7. [optional] You can transform a .apkg or .colpkg file into tsv with the anki_to_tsv.py file; Usage: python anki_to_tsv.py <input.apkg> [output.tsv]
-8. [optional] You can select only the words that are not in two files so you can make a different file with the tsv_compare.py file; Usage: python3 filter_tsv.py <base_file.tsv> <input_file.tsv> <output_file.tsv>
+8. [optional] You can select only the words that are not in two files so you can make a different file with the tsv_compare.py file; Usage: python3 tsv_compare.py <base_file.tsv> <input_file.tsv> <output_file.tsv>
 9. [optional] You can use public domain texts/books in txt and merge them witht the ./Livros/combine.py file. In this example I used the Public Domain works of Charles Dickens available in the Project Gutenberg website. 
