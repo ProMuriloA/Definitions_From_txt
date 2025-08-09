@@ -4,16 +4,69 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="645a4ce4-8456-4c4c-9a19-608884250216" name="Changes" comment="">
+    <list default="true" id="645a4ce4-8456-4c4c-9a19-608884250216" name="Changes" comment="anki deck and game added 2">
+      <change afterPath="$PROJECT_DIR$/.idea/Definitions_from_txt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced_English.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Livros/combine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Livros/dickens/dickens.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Livros/pg1023.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Livros/pg1289.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Livros/pg1400.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Livros/pg23344.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Livros/pg24022.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Livros/pg564.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Livros/pg580.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Livros/pg58157.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Livros/pg675.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Livros/pg700.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Livros/pg730.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Livros/pg766.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Livros/pg786.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Livros/pg821.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Livros/pg883.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Livros/pg914.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Livros/pg917.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Livros/pg963.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Livros/pg967.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Livros/pg968.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Livros/pg98.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anki_to_tsv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dickens.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dickens.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsv_compare.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/definitions_output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/definitions_output.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dict_translator.sh" beforeDir="false" afterPath="$PROJECT_DIR$/dict_translator.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dict_translator.py" beforeDir="false" afterPath="$PROJECT_DIR$/dict_translator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dict_translator.sh" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/enter_your_text_here.txt" beforeDir="false" afterPath="$PROJECT_DIR$/enter_your_text_here.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/errors_output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/errors_output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/french_vocabulary_deck.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/generate_anki_deck.py" beforeDir="false" afterPath="$PROJECT_DIR$/generate_anki_deck.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sounds/background.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sounds/battle.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sounds/bird_chirp.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sounds/calm.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sounds/encounter.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sounds/move.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sounds/victory.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sounds/water_stream.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sounds/wind.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/srs_game.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/srs_progress.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -32,12 +85,14 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Python.DNA newest file.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pokemon_srs_game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pokemon_srs_game.executor&quot;: &quot;Debug&quot;,
     &quot;Python.scratch.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Rebasing master&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;last_opened_file_path&quot;: &quot;/home/comp5/PROJETINHO/Definitions_from_txt&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.build&quot;
   },
@@ -85,7 +140,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-4c141bd692a7-e2d783800521-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.26927.90" />
+        <option value="bundled-python-sdk-03e874896e21-d902c0275401-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.23892.439" />
       </set>
     </attachedChunks>
   </component>
